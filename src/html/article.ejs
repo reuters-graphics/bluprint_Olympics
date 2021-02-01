@@ -1,0 +1,48 @@
+<article class=''>
+	
+	<% const sportArrays = require(`./templates/sportArrays.json`);%>
+	<%	const complete = require(`./templates/complete.json`);%>
+
+	<%
+		//rewrite this bit.
+		let sport = "uniqueSportsName"
+		const disciplineArray = sportArrays[sport].disciplineArray 
+		const sportArray = sportArrays[sport].SportArray
+		const sportData = complete[sport]
+		//console.log(sportData)
+	%>
+
+	<%- include('templates/heroScroller', {sport:sport}); %>
+ 
+	<section class="graphic olympics mt-5">
+		<%- include('ai2html/ai_schedule.ejs'); %>	
+	</section>
+
+	<section class="graphic olympics mt-5">
+		<div id="full-schedule"></div>
+	</section>
+	
+	<section class="graphic olympics mt-5">
+		<%- include('ai2html/ai_body.ejs'); %>	
+	</section>
+
+    <%- include('templates/history.ejs', { sportData, sportArray, sport, disciplineArray }); %>
+    
+    <%- include('templates/athlete.ejs', { sportData, sportArray, sport }); %>
+
+    <%- include('templates/countries.ejs', { sportData, sport }); %>
+
+	<figure class='photo wide mt-5 mb-5'>
+		<figcaption><%= gt.gettext("By Wen Foo, Matthew Weber and Catherine Tai | Reuters Graphics")%>
+			<br><%= gt.gettext("Sources: International Olympic Committee; Tokyo202; Sports: The Complete Visual Reference")%></figcaption>
+	</figure>
+
+
+
+</article>
+
+
+
+
+
+

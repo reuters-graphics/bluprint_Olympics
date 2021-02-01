@@ -1,0 +1,29 @@
+<section class="hero-title scroll-container fixed">
+	<div class="opener">
+		<img class="opener-img selected first" src="img/top.png">
+		<img class="opener-img second" src="img/top2.png">
+	</div>
+
+	<div class="title-wrapper">
+		<div class='title bottom'>
+			<p class="section-title uppercase color-olympics-gold">
+				<strong><%= gt.gettext('Tokyo 2020')%></strong>
+			</p>
+			<h2 class="">
+				<%= sport %>
+			</h2>
+				<%- localeMarkdown('article/text.md').firstBlurb %>
+		</div>
+	</div>
+
+	<div class="full-height"></div>
+	<div class="scroll-item" data-id="1">
+		<section class="blurb graphic">
+			<%- localeMarkdown('article/text.md').secondBlurb %>
+			<%- include('../ai2html/ai_intro.ejs'); %>
+
+		</section>
+	</div>
+	<div class="full-height"></div>	
+	
+</section>

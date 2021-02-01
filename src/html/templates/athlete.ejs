@@ -1,0 +1,71 @@
+<%sportData.goldMedals.forEach(function(goldMedal,index){%>
+	<%let name = goldMedal.name.split(', ')[1] + " " + goldMedal.name.split(',')[0]%>
+	<section class="graphic olympics mt-5">
+		<%if (index == 0){%>
+			<h3>Most gold medals</h3>			
+			<%if (sportData.goldMedals.length > 1){%>
+
+			<p><strong><%=name%></strong> and <strong><%=sportData.goldMedals[1].name.split(', ')[1]%> <%=sportData.goldMedals[1].name.split(',')[0]%></strong> are tied for the most gold medals with <%=goldMedal.gold%> each. </p>
+				
+			<%}else{%>
+				
+			<p><strong><%=name%></strong> has won the most gold medals in <%=sport%> with <%=goldMedal.gold%> gold and <%=goldMedal.total%> total. </p>
+
+
+			<%}%>
+		</section>
+		
+			<figure class='photo wide mt-n1'>
+				<img srcset="img/athlete/600.jpg 600w, img/athlete/1200.jpg 1200w, img/athlete/2400.jpg 2400w" src="img/athlete/2400.jpg" alt="<%-localeMarkdown('article/text.md').caption%>">	
+				<%-localeMarkdown('article/text.md').caption%>
+			</figure>	
+		<%}%>			
+	
+	<section class="graphic olympics mt-n3">
+	<%if (sportData.goldMedals.length > 1){%>
+		<div class="gold-medal-table-name"><%=name%></div>	
+	<%}%>
+	<%sportData.goldMedalEvents[index].forEach((event, i) =>{%>
+		<div class="event-holder d-flex <%if (i%2 == 0){%>stripe<%}%>">
+			<div class="event-name"><%=event%></div>
+			<div class="event-chart d-flex">
+				<%sportData.goldChartData[index].forEach((d)=>{%>			
+					<div class="olyBox 
+						<% if (d.events){
+							if(d.events[event]){
+								if (d.events[event].Bronze){%>bronze <%}
+								if (d.events[event].Silver){%>silver<%}
+								if (d.events[event].Gold){%>gold<%}
+							}
+						}
+						%>"
+						<%if (d.events){%>
+							<%if (d.events[event]){%>
+							data-tippy-content="
+								<div class='tooltip-name'><%=d.year%></div>	
+							"					
+						<%}}%>					
+						></div>			
+				<%})%>
+			</div>
+		</div>	
+	<%})%>
+	
+		<div class="event-holder d-flex">
+			<div class="event-name"></div>
+			<div class="event-chart d-flex">
+				<%sportData.goldChartData[index].forEach(function(d){%>	
+					<div class="olyBox year-holder"> 		
+						<div class="year">
+						<%if (parseFloat(d.year) % 50 == 0){%>
+							<%=d.year%>					
+						<%}%>
+						</div>
+					</div>
+				<%})%>
+			</div>
+		</div>
+	
+	</section>
+	
+<%})%>	

@@ -1,0 +1,1189 @@
+{
+  "Artistic Swimming": {
+    "disciplineArray": [
+      "Artistic Swimming"
+    ],
+    "SportArray": {
+      "Artistic Swimming": [
+        "duet",
+        "solo",
+        "Team"
+      ]
+    }
+  },  
+  "Marathon Swimming": {
+    "disciplineArray": [
+      "Marathon Swimming"
+    ],
+    "SportArray": {
+      "Marathon Swimming": [
+        "10km"
+      ]
+    }
+  },  
+  "Water Polo": {
+    "disciplineArray": [
+      "Water Polo"
+    ],
+    "SportArray": {
+      "Water Polo": [
+        "water polo"
+      ]
+    }
+  },
+  "Diving": {
+    "disciplineArray": [
+      "Diving"
+    ],
+    "SportArray": {
+      "Diving": [
+        "3m springboard",
+        "10m platform",
+        "plunge for distance",
+        "plain high diving",
+        "synchronized 3m",
+        "synchronized 10m"
+      ]
+    }
+  },  
+  "Swimming": {
+    "disciplineArray": [
+      "Swimming"
+    ],
+    "SportArray": {
+      "Swimming": [
+        "100m backstroke",
+        "200m backstroke",
+        "100m breaststroke",
+        "200m breaststroke",
+        "400m breaststroke",
+        "100m butterfly",
+        "200m butterfly",
+        "50y freestyle",
+        "50m freestyle",
+        "100m freestyle",
+        "200m freestyle",
+        "400m freestyle",
+        "800m freestyle",
+        "880y freestyle",
+        "1000m freestyle",
+        "1200m freestyle",
+        "1500m freestyle",
+        "4000m freestyle",
+        "4x50y freestyle",
+        "4x100m freestyle",
+        "4x200m freestyle",
+        "100m for sailor",
+        "200m obstacle event",
+        "200m Team swimming",
+        "200m medley",
+        "400m medley",
+        "4x100m medley",
+        "underwater swimming"
+      ]
+    }
+  },
+  "Athletics": {
+    "disciplineArray": [
+      "Athletics"
+    ],
+    "SportArray": {
+      "Athletics": [
+        "60m",
+        "100m",
+        "200m",
+        "400m",
+        "800m",
+        "1500m",
+        "3000m",
+        "5000m",
+        "10000m",
+        "5 miles",
+        "80m hurdles",
+        "100m hurdles",       
+        "110m hurdles",
+        "200m hurdles",
+        "400m hurdles",
+        "3000m steeple",
+        "4000m steeplechase",
+        "3200m steeplechase",
+        "5000m Team",
+        "3000m Team",
+        "3miles Team",
+        "4miles Team",        
+        "4x100m relay",
+        "4x400m relay",
+        "3000m walk",
+        "3500m walk",
+        "10000m walk",
+        "50km walk",
+        "20km walk",
+        "10miles walk",
+        "marathon",
+        "triathlon",
+        "decathlon",
+        "pentathlon",
+        "heptathlon",
+        "cross country",
+        "crosscountry team",
+        "high jump",
+        "high jump stand",
+        "long jump",
+        "long jump standing",
+        "triple jump",
+        "triple jump standing",
+        "pole vault",
+        "discus throw",
+        "discus ancient",
+        "discus 2 hands",
+        "hammer throw",
+        "shot put",
+        "shotput 2 hand",
+        "56lb weight throw",
+        "javelin freestyle",
+        "javelin throw",
+        "javelin 2 hands"
+      ]
+    }
+  },
+  "Cycling": {
+    "disciplineArray": [
+      "Cycling Road",
+      "Cycling Track",
+      "Cycling BMX",
+      "Cycling Mountain Bike",
+      "Cycling BMX Freestyle",
+      "Cycling BMX Racing"
+    ],
+    "SportArray": {
+      "Cycling Road": [
+        "individual road",
+        "Team time trial",
+        "time trial"
+      ],
+      "Cycling Track": [
+        "500m time trial",
+        "2000m tandem",
+        "5000m",
+        "1km time trial",
+        "10km",
+        "20km",
+        "25 km",
+        "50km",
+        "100km",
+        "One lap (660y)",
+        "1/4 mile",
+        "1/3 mile",
+        "1/2 mile",
+        "1 mile",
+        "2 miles",
+        "5 miles",
+        "25 miles",
+        "12-hour race",
+        "Sprint",
+        "Team Sprint",
+        "Olympic Sprint",
+        "1980y Pursuit",
+        "1km Pursuit",
+        "Ind. Pursuit",
+        "Team Pursuit",
+        "Points Race",
+        "Madison",
+        "Keirin",
+        "Omnium"
+      ],
+      "Mountain Bike": [
+        "cross-country"
+      ],
+      "Cycling BMX": [
+        "Individual"
+      ],
+      "Cycling Mountain Bike": [
+        "cross-country"
+      ],
+      "Cycling BMX Freestyle": [
+        "Individual"
+      ],
+      "Cycling BMX Racing": [
+        "Individual"
+      ]
+    }
+  },
+  "Fencing": {
+    "disciplineArray": [
+      "Fencing"
+    ],
+    "SportArray": {
+      "Fencing": [
+        "foil individual",
+        "foil, masters",
+        "foil Team",
+        "épée individual",
+        "épée, masters",
+        "épée Team",
+        "épée amateurs/masters",
+        "sabre individual",
+        "sabre, masters",
+        "sabre Team",
+        "stick, single"
+      ]
+    }
+  },
+  "Gymnastics": {
+    "disciplineArray": [
+      "Gymnastics Artistic",
+      "Gymnastics Rhythmic",
+      "Trampoline"
+    ],
+    "SportArray": {
+      "Gymnastics Artistic": [
+        "horizontal bar",
+        "parallel bars",
+        "pommel horse",
+        "rings",
+        "rope climbing",
+        "vault",
+        "individual all-around",
+        "club swinging",
+        "combined 3 even",
+        "combined 4 even",
+        "Sidehorse vault",
+        "floor exercises",
+        "indian clubs",
+        "tumbling",
+        "beam",
+        "uneven bars",
+        "Team",
+        "Team horizontal",
+        "Team parallel",
+        "Team competition",
+        "Team, free system",
+        "Team, Swedish",
+        "Team, portable"
+      ],
+      "Gymnastics Rhythmic": [
+        "individual all-around",
+        "group all-around"
+      ],
+      "Trampoline": [
+        "Individual"
+      ]
+    }
+  },
+  "Shooting": {
+    "disciplineArray": [
+      "Shooting"
+    ],
+    "SportArray": {
+      "Shooting": [
+        "10m air rifle",
+        "10m air pistol",
+        "25m army pistol",
+        "30m army pistol",
+        "50m army pistol",
+        "50y army pistol",
+        "army rifle, 200",
+        "army rifle, 300",
+        "army rifle, 300m kneeling",
+        "army rifle, 300m standing",
+        "army rifle, 300m, 3 positions",
+        "army rifle, 300m, prone",
+		"25m rapid pistol",
+        "25m pistol",
+		"50m pistol",
+        "25m small rifle",
+        "300m free rifle",
+        "600m free rifle",
+        "300+600m free",
+        "1000y free rifle",
+        "free rifle Team",
+        "50m rifle prone",
+        "600m free prone",
+        "50m rifle 3 pos",
+        "25y small bore",
+        "25m small bore",
+        "50m small bore",
+        "50+100y small",
+        "Skeet",
+        "Trap",
+        "double trap 120",
+        "double trap 150",
+        "clay pigeons Team",
+        "25y small moving",
+        "50m running target",
+        "100m run deer",
+        "10m runni 30+30",
+        "50m runni 30+30",
+        "400, 600, 800m"
+      ]
+    }
+  },
+  "Tennis": {
+    "disciplineArray": [
+      "Tennis"
+    ],
+    "SportArray": {
+      "Tennis": [
+        "Singles",
+        "Doubles",
+        "mixed doubles",
+        "Singles indoor",
+        "Doubles indoor",
+        "mixed indoor"
+      ]
+    }
+  },
+  "Weightlifting": {
+    "disciplineArray": [
+      "Weightlifting"
+    ],
+    "SportArray": {
+      "Weightlifting": [
+        "48kg",
+        "49kg",
+        "- 52kg",
+        "52-56kg",
+        "53kg",
+        "-54kg",
+        "54-59kg",
+        "55kg",
+        "-56kg",
+        "56 - 60kg",
+        "56kg",
+        "58kg",
+        "59-64kg",
+        "59kg",
+        "-60kg",
+        "60 - 67.5kg",
+        "60-67.5kg",
+        "61kg",
+        "62kg",
+        "63kg",
+        "64-70kg",
+        "64kg",
+        "67.5 - 75kg",
+        "67.5-75kg",
+        "67kg",
+        "69kg",
+        "70-76kg",
+        "73kg",
+        "75 - 82.5kg",
+        "75-82.5kg",
+        "75kg",
+        "+75kg",        
+        "76-83kg",
+        "76kg",
+        "77kg",
+        "81kg",
+        "+ 82.5kg",        
+        "82.5-90kg",
+        "83-91kg",
+        "85kg",
+        "87kg",
+        " +87kg",   
+        "+ 90kg",             
+        "90-100kg",
+        "91-110kg",
+        "91-99kg",
+        "94kg",
+        "96kg",
+        "99-108kg",
+        "100-110kg",        
+        "105kg",
+        "+105kg",
+        "+ 108kg",       
+        "109kg",        
+        " +109kg",
+        "+ 110kg",
+        "All-around Dumbbell contest",
+        "heavyw. 1 hand",
+        "heavyw. 2 hande"
+      ]
+    }
+  },
+  "Wrestling": {
+    "disciplineArray": [
+      "Wrestling Greco-Roman",
+      "Wrestling Freestyle",
+      "Wrestling"
+    ],
+    "SportArray": {
+      "Wrestling Greco-Roman": [
+        "open event",
+        "- 66.6kg",
+        "+ 93kg",
+        "66.6 - 73kg",
+        "73 - 93kg",
+        "- 60kg",
+        "+ 82.5kg",
+        "60 - 67.5kg",
+        "67.5 - 75kg",
+        "75 - 82.5kg",
+        "+ 82kg",
+        "75 - 82kg",
+        "- 58kg",
+        "58 - 62kg",
+        "62 - 67.5kg",
+        "58 - 60kg",
+        "- 56kg",
+        "+ 87kg",
+        "56 - 61kg",
+        "61 - 66kg",
+        "66 - 72kg",
+        "72 - 79kg",
+        "79 - 87kg",
+        "- 52kg",
+        "52 - 57kg",
+        "57 - 61kg",
+        "61 - 67kg",
+        "67 - 73kg",
+        "73 - 79kg",
+        "57 - 63kg",
+        "63 - 70kg",
+        "70 - 78kg",
+        "78 - 87kg",
+        "87 - 97kg",
+        "97 - 130kg",
+        "- 48kg",
+        "+ 100kg",
+        "48 - 52kg",
+        "57 - 62kg",
+        "62 - 68kg",
+        "68 - 74kg",
+        "74 - 82kg",
+        "82 - 90kg",
+        "90 - 100kg",
+        "100 - 130kg",
+        "54 - 58kg",
+        "63 - 69kg",
+        "48 - 54kg",
+        "58 - 63kg",
+        "69 - 76kg",
+        "85 - 97kg",
+        "76 - 85kg",
+        "60 - 66kg",
+        "84 - 96kg",
+        "- 55kg",
+        "55 - 60kg",
+        "74 - 84kg",
+        "96 - 120kg",
+        "66 - 74kg"
+      ],
+      "Wrestling Freestyle": [
+        "- 47.6kg",
+        "+ 71.67kg",
+        "47.6 - 52.16kg",
+        "52.16 - 56.7kg",
+        "56.7 - 61.23kg",
+        "61.23 - 65.77kg",
+        "65.77 - 71.67kg",
+        "- 54kg",
+        "+ 73kg",
+        "54 - 60.3kg",
+        "60.3 - 66.6kg",
+        "66.6 - 73kg",
+        "- 60kg",
+        "+ 80kg",
+        "60 - 67.5kg",
+        "67.5 - 75kg",
+        "75 - 80kg",
+        "- 56kg",
+        "+ 87kg",
+        "56 - 61kg",
+        "61 - 66kg",
+        "66 - 72kg",
+        "72 - 79kg",
+        "79 - 87kg",
+        "- 52kg",
+        "52 - 57kg",
+        "57 - 63kg",
+        "63 - 67kg",
+        "67 - 73kg",
+        "73 - 79kg",
+        "+ 97kg",
+        "63 - 70kg",
+        "70 - 78kg",
+        "78 - 87kg",
+        "87 - 97kg",
+        "- 48kg",
+        "+ 100kg",
+        "48 - 52kg",
+        "57 - 62kg",
+        "62 - 68kg",
+        "68 - 74kg",
+        "74 - 82kg",
+        "82 - 90kg",
+        "90 - 100kg",
+        "100 - 130kg",
+        "48 - 54kg",
+        "63 - 69kg",
+        "54 - 58kg",
+        "58 - 63kg",
+        "76 - 85kg",
+        "85 - 97kg",
+        "97 - 130kg",
+        "69 - 76kg",
+        "63 - 72kg",
+        "55 - 60kg",
+        "48 - 55kg",
+        "55 - 63kg",
+        "- 55kg",
+        "66 - 74kg",
+        "84 - 96kg",
+        "60 - 66kg",
+        "74 - 84kg",
+        "96 - 120kg",
+        "WF 60 kg",
+        "WF 84 kg",
+        "WG 120 kg",
+        "WG 55 kg",
+        "WG 60 kg",
+        "WG 96 kg",
+        "WF 48 kg",
+        "WF 55 kg",
+        "WF 63 kg",
+        "WF 66 kg",
+        "WG 66 kg",
+        "WF 72 kg",
+        "WG 74 kg",
+        "WG 84 kg",
+        "WF 74 kg",
+        "WF 96 kg",
+        "WF 120kg"
+      ],
+      "Wrestling": [
+        "WG 98 kg",
+        "WF 75 kg",
+        "WG 130 kg",
+        "WG 59 kg",
+        "WF 57 kg",
+        "WF 74 kg",
+        "WF 48 kg",
+        "WF 58 kg",
+        "WF 63 kg",
+        "WF 69 kg",
+        "WF 65 kg",
+        "WF 86 kg",
+        "WG 75 kg",
+        "WG 85 kg",
+        "WG 66 kg",
+        "WF 125 kg",
+        "WF 53 kg",
+        "WF 97 kg",
+        "WF 53kg",
+        "WG 60 kg",
+        "WG 67 kg",
+        "WG 77 kg",
+        "WG 87 kg",
+        "WG 97 kg",
+        "WF 50 kg",
+        "WF 62 kg",
+        "WF 68 kg",
+        "WF 76 kg"
+      ]
+    }
+  },
+  "Archery": {
+    "disciplineArray": [
+      "Archery"
+    ],
+    "SportArray": {
+      "Archery": [
+        "au chapelet 33m",
+        "au chapelet 50m",
+        "cordon doré 33m",
+        "cordon doré 50m",
+        "perche à herse",
+        "perche pyramide",
+        "world championships",
+        "double american",
+        "double columbia",
+        "double national",
+        "double york",
+        "Team",
+        "Team round 60y",
+        "continental style",
+        "national round",
+        "york round",
+        "fixed bird larg",
+        "fixed bird smal",
+        "fixed bird Team",
+        "moving bird 28m",
+        "moving bird 33m",
+        "moving bird 50m",
+        "moving 28m Team",
+        "moving 33m Team",
+        "moving 50m Team",
+        "Individual"
+      ]
+    }
+  },
+  "Basque Pelota": {
+    "disciplineArray": [
+      "Basque Pelota"
+    ],
+    "SportArray": {
+      "Basque Pelota": [
+        "cesta punta"
+      ]
+    }
+  },
+  "Cricket": {
+    "disciplineArray": [
+      "Cricket"
+    ],
+    "SportArray": {
+      "Cricket": [
+        "cricket"
+      ]
+    }
+  },
+  "Croquet": {
+    "disciplineArray": [
+      "Croquet"
+    ],
+    "SportArray": {
+      "Croquet": [
+        "double",
+        "indiv. 2 balls",
+        "individ. 1 ball"
+      ]
+    }
+  },
+  "Equestrian": {
+    "disciplineArray": [
+      "Combined",
+      "Jumping",
+      "Dressage",
+      "Eventing",
+      "Vaulting",
+      "Equestrian"
+    ],
+    "SportArray": {
+      "Combined": [
+        "Hacks and hunter combined",
+        "Four-In-Hand Competition"
+      ],
+      "Jumping": [
+        "high jump",
+        "long jump",
+        "Individual",
+        "Team"
+      ],
+      "Dressage": [
+        "Individual",
+        "Team"
+      ],
+      "Eventing": [
+        "Individual",
+        "Team"
+      ],
+      "Vaulting": [
+        "figure riding",
+        "figure riding team"
+      ],
+      "Equestrian": [
+        "Eventing Ind",
+        "Eventing Team",
+        "Jumping Ind.",
+        "Jumping Team",
+        "Dressage Ind",
+        "Dressage Team"
+      ]
+    }
+  },
+  "Football": {
+    "disciplineArray": [
+      "Football"
+    ],
+    "SportArray": {
+      "Football": [
+        "football"
+      ]
+    }
+  },
+  "Golf": {
+    "disciplineArray": [
+      "Golf"
+    ],
+    "SportArray": {
+      "Golf": [
+        "Individual",
+        "Team"
+      ]
+    }
+  },
+  "Polo": {
+    "disciplineArray": [
+      "Polo"
+    ],
+    "SportArray": {
+      "Polo": [
+        "polo"
+      ]
+    }
+  },
+  "Rowing": {
+    "disciplineArray": [
+      "Rowing"
+    ],
+    "SportArray": {
+      "Rowing": [
+        "4- with coxwain",
+        "4- with coxwain - race 2",
+        "eight with coxswain ",
+        "Pair-oared shell with coxswain",
+        "four-oared with coxwain",
+        "coxless pair 2-",
+        "coxless four",
+        "single sculls",
+        "double sculls",
+        "quadruple sculls",
+        "lightweight 2",
+        "lightweight 4",
+        "lightweight doubles"
+      ]
+    }
+  },
+  "Rugby": {
+    "disciplineArray": [
+      "Rugby"
+    ],
+    "SportArray": {
+      "Rugby": [
+        "rugby",
+        "rugby-7"
+      ]
+    }
+  },
+  "Sailing": {
+    "disciplineArray": [
+      "Sailing"
+    ],
+    "SportArray": {
+      "Sailing": [
+        "0.5-1t",
+        "0.5-1t - race 2",
+        "0.5t",
+        "0.5t - race 2",
+        "10-20t",
+        "1-2t",
+        "1-2t - race 2",
+        "20t +",
+        "2-3t",
+        "2-3t - race 2",
+        "3-10t",
+        "3-10t - race 2",
+        "open class",
+        "12m",
+        "6m",
+        "7m",
+        "8m",
+        "10m",
+        "10m (rating 1907)",
+        "10m (rating 1919)",
+        "12 foot dinghy",
+        "12m (rating 1907)",
+        "12m (rating 1919)",
+        "18 foot dinghy",
+        "30m sq",
+        "40m sq",
+        "6.5m (rating 1919)",
+        "6m (rating 1907)",
+        "6m (rating 1919)",
+        "8m (rating 1907)",
+        "8m (rating 1919)",
+        "Olympic class",
+        "Star",
+        "dragon",
+        "firefly class",
+        "golondrina",
+        "5.5m",
+        "Finn",
+        "sharpie 12m2",
+        "flying dutchman",
+        "Soling",
+        "tempest",
+        "470",
+        "Tornado",
+        "Windglider",
+        "Division II",
+        "Lechner",
+        "Europe",
+        "board (lechner)",
+        "Laser",
+        "Mistral",
+        "board (Mistral)",
+        "49er",
+        "Yngling",
+        "RS:X",
+        "Laser Radial",
+        "49er - Skiff",
+        "Elliott 6m",
+        "Nacra 17 Mixed",
+        "49er FX Women"
+      ]
+    }
+  },
+  "Tug of War": {
+    "disciplineArray": [
+      "Tug of War"
+    ],
+    "SportArray": {
+      "Tug of War": [
+        "tug of war"
+      ]
+    }
+  },
+  "Boxing": {
+    "disciplineArray": [
+      "Boxing"
+    ],
+    "SportArray": {
+      "Boxing": [
+        "- 47.63kg",
+        "+ 71.67kg",
+        "47.63 - 52.16kg",
+        "52.16 - 56.7kg",
+        "56.7 - 61.24kg",
+        "61.24 - 65.77kg",
+        "65.77 - 71.67kg",
+        "- 52.62kg",
+        "52.62 - 57.15kg",
+        "57.15 - 63.5kg",
+        "63.5 - 71.67kg",
+        "- 50.8kg",
+        "+ 79.38kg",
+        "50.8 - 53.52kg",
+        "53.52 - 57.15kg",
+        "57.15 - 61.24kg",
+        "61.24 - 66.68kg",
+        "66.68 - 72.57kg",
+        "72.57 - 79.38kg",
+        "50.8 - 54kg",
+        "54 - 57.15kg",
+        "- 51kg",
+        "+ 80kg",
+        "51 - 54kg",
+        "54 - 58kg",
+        "58 - 62kg",
+        "62 - 67kg",
+        "67 - 73kg",
+        "73 - 80kg",
+        "+ 81kg",
+        "54 - 57kg",
+        "57 - 60kg",
+        "60 - 63.5kg",
+        "63.5 - 67kg",
+        "67 - 71kg",
+        "71-75kg",
+        "75 - 81kg",
+        "- 48kg",
+        "48 - 51kg",
+        "+ 91kg",
+        "81 - 91kg",
+        "-48kg",
+        "64 - 69 kg",
+        "69 - 75 kg",
+        "60 - 64 kg",
+        "46 - 49kg",
+        "52kg",
+        "51 kg",
+        "56kg",
+        "60 kg",
+        "75 kg",
+        "52 - 57 kg",
+        "57 - 63 kg",
+        "48 - 52 kg",
+        "63 - 69 kg",
+        "48 - 51 kg",
+        "54 - 57 kg",
+        "57 - 60 kg"
+      ]
+    }
+  },
+  "Lacrosse": {
+    "disciplineArray": [
+      "Lacrosse"
+    ],
+    "SportArray": {
+      "Lacrosse": [
+        "lacrosse"
+      ]
+    }
+  },
+  "Roque": {
+    "disciplineArray": [
+      "Roque"
+    ],
+    "SportArray": {
+      "Roque": [
+        "Individual"
+      ]
+    }
+  },
+  "Hockey": {
+    "disciplineArray": [
+      "Hockey"
+    ],
+    "SportArray": {
+      "Hockey": [
+        "hockey"
+      ]
+    }
+  },
+  "Jeu de paume": {
+    "disciplineArray": [
+      "Jeu de Paume"
+    ],
+    "SportArray": {
+      "Jeu de Paume": [
+        "Individual"
+      ]
+    }
+  },
+  "Rackets": {
+    "disciplineArray": [
+      "Rackets"
+    ],
+    "SportArray": {
+      "Rackets": [
+        "double",
+        "Individual"
+      ]
+    }
+  },
+  "Skating": {
+    "disciplineArray": [
+      "Figure skating"
+    ],
+    "SportArray": {
+      "Figure skating": [
+        "Individual",
+        "Pairs",
+        "special figures"
+      ]
+    }
+  },
+  "Water Motorsports": {
+    "disciplineArray": [
+      "Water Motorsports"
+    ],
+    "SportArray": {
+      "Water Motorsports": [
+        "8m class C",
+        "class B -60f.",
+        "open class A"
+      ]
+    }
+  },
+  "Modern Pentathlon": {
+    "disciplineArray": [
+      "Modern Pentathlon"
+    ],
+    "SportArray": {
+      "Modern Pentathlon": [
+        "Individual",
+        "Team"
+      ]
+    }
+  },
+  "Ice Hockey": {
+    "disciplineArray": [
+      "Ice Hockey"
+    ],
+    "SportArray": {
+      "Ice Hockey": [
+        "ice hockey"
+      ]
+    }
+  },
+  "Basketball": {
+    "disciplineArray": [
+      "Basketball"
+    ],
+    "SportArray": {
+      "Basketball": [
+        "basketball",
+        "3X3"
+      ]
+    }
+  },
+  "Canoe": {
+    "disciplineArray": [
+      "Canoe Sprint",
+      "Canoe Slalom"
+    ],
+    "SportArray": {
+      "Canoe Sprint": [
+        "C-1 200m",
+        "C-1 500m",
+        "C-1 1000m",
+        "C-1 10000m",
+        "C-2 500m",
+        "C-2 1000m",
+        "C-2 10000m",
+        "K-1 500m",
+        "K-1 1000m",
+        "K-1 10000m",
+        "K-1 4x500m",
+        "K-2 200m",
+        "K-2 500m",
+        "K-2 1000m",
+        "K-2 10000m",
+        "K-4 500m",
+        "K-4 1000m",
+        "folding K-1",
+        "folding K-2"
+      ],
+      "Canoe Slalom": [
+        "C-1 (single)",
+        "C-2 (double)",
+        "K-1 (single)"
+      ]
+    }
+  },
+  "Handball": {
+    "disciplineArray": [
+      "Handball"
+    ],
+    "SportArray": {
+      "Handball": [
+        "handball"
+      ]
+    }
+  },
+  "Judo": {
+    "disciplineArray": [
+      "Judo"
+    ],
+    "SportArray": {
+      "Judo": [
+        "- 68kg",
+        "+ 80kg",
+        "68 - 80kg",
+        "open category",
+        "- 63kg",
+        "+ 93kg",
+        "63 - 70kg",
+        "70 - 80kg",
+        "80 - 93kg",
+        "86 - 95kg",
+        "- 60 kg",
+        "+ 95kg",
+        "65 - 71kg",
+        "78 - 86kg",
+        "60 - 65kg",
+        "71 - 78kg",
+        "+ 72kg",
+        "61 - 66kg",
+        "48 - 52kg",
+        "52 - 56kg",
+        "- 48kg",
+        "56 - 61kg",
+        "66 - 72kg",
+        "+ 100kg",
+        "73 - 81kg",
+        "60 - 66kg",
+        "66 - 73kg",
+        "81 - 90kg",
+        "90 - 100kg",
+        "+ 78kg",
+        "70 - 78kg",
+        "52 - 57kg",
+        "57 - 63kg",
+        "- 48 kg",
+        "mixed team"
+      ]
+    }
+  },
+  "Volleyball": {
+    "disciplineArray": [
+      "Volleyball",
+      "Beach Volleyball"
+    ],
+    "SportArray": {
+      "Volleyball": [
+        "volleyball"
+      ],
+      "Beach Volleyball": [
+        "Beach volleyball",
+        "Beach volley."
+      ]
+    }
+  },
+  "Table Tennis": {
+    "disciplineArray": [
+      "Table Tennis"
+    ],
+    "SportArray": {
+      "Table Tennis": [
+        "Singles",
+        "Doubles",
+        "Team",
+        "mixed doubles"
+      ]
+    }
+  },
+  "Badminton": {
+    "disciplineArray": [
+      "Badminton"
+    ],
+    "SportArray": {
+      "Badminton": [
+        "Singles",
+        "Doubles",
+        "mixed doubles"
+      ]
+    }
+  },
+  "Baseball": {
+    "disciplineArray": [
+      "Baseball"
+    ],
+    "SportArray": {
+      "Baseball": [
+        "baseball",
+        "softball"
+      ]
+    }
+  },
+  "Softball": {
+    "disciplineArray": [
+      "Softball"
+    ],
+    "SportArray": {
+      "Softball": [
+        "softball"
+      ]
+    }
+  },
+  "Taekwondo": {
+    "disciplineArray": [
+      "Taekwondo"
+    ],
+    "SportArray": {
+      "Taekwondo": [
+        "- 49 kg",
+        "+ 67 kg",
+        "68 - 80 kg",
+        "- 58 kg",
+        "+ 80 kg",
+        "49 - 57 kg",
+        "57 - 67 kg",
+        "58 - 68 kg"
+      ]
+    }
+  },
+  "Triathlon": {
+    "disciplineArray": [
+      "Triathlon"
+    ],
+    "SportArray": {
+      "Triathlon": [
+        "Individual",
+        "mixed relay"
+      ]
+    }
+  }
+}

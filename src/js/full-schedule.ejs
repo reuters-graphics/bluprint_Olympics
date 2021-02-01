@@ -1,0 +1,27 @@
+<div id="sked-instructions" class="sked-instructions mb-3">VIEW FULL SCHEDULE</div>		
+
+<div id="slide-down" class="slide-down mb-5">
+<%disciplines.forEach(function(disc){%>
+	<div class="d-flex">
+		<div class="discipline"><%=disc%></div>	
+		<div class="sports">
+			<%data[disc].forEach(function(d){%>
+				<div class="d-flex">
+					<div class="date-place">
+						<div class="date"><%=d.displayDate%> | <%=d.start%>-<%=d.end%></div>
+						<div class="place"><%=d.venue%></div>
+					</div>
+
+					<div class="events">
+						<%d.event.forEach(function(event){%>
+							<div class="event"><%=event%></div>
+						<%})%>
+					</div>
+				</div>
+				<hr class="sked-hr">
+				
+			<%})%>
+		</div>
+	</div>
+<%})%>
+</div>

@@ -1,0 +1,45 @@
+<section class="graphic olympics mt-5">
+	<h3>History of events</h3>
+	<p><%=sport%> debuted in the olympics in <%=sportData.firstYear%> with <%=sportData.firstNumber%> events. There are currently <strong><%=sportData.number%> medal events.</strong></p>
+
+
+<%disciplineArray.forEach((discipline)=>{%>
+	<div class="mt-3 history-subhead"><%=discipline%></div>
+
+
+	<%sportArray[discipline].forEach((event, i) =>{%>
+		<div class="event-holder d-flex <%if (i%2 == 0){%>stripe<%}%>">
+			<div class="event-name <%if (sportData.keys2016.indexOf(event) > -1){%>strong<%}%>"><%=event%></div>
+			<div class="event-chart d-flex">
+				<%sportData.olyYears.forEach((d)=>{%>			
+					<div class="olyBox 
+						<% if (d.events){
+							if(d.events[event]){
+								if (d.events[event].Men){%>men <%}
+								if (d.events[event].Women){%>women<%}
+							}
+						}
+						%>"></div>			
+				<%})%>
+			</div>
+		</div>	
+	<%})
+})%>
+
+	<div class="event-holder d-flex">
+		<div class="event-name"></div>
+		<div class="event-chart d-flex">
+			<%sportData.olyYears.forEach(function(d){%>	
+				<div class="olyBox year-holder"> 		
+					<div class="year">
+					<%if (parseFloat(d.year) % 50 == 0){%>
+						<%=d.year%>					
+					<%}%>
+					</div>
+				</div>
+			<%})%>
+		</div>
+	</div>
+
+
+</section>

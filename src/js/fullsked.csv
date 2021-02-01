@@ -1,0 +1,753 @@
+﻿page,sport,discipline,venue,date,start,end,event
+1,Opening Ceremony,Opening Ceremony,Olympic Stadium,7/24/20,20:00,23:00,
+1,Closing Ceremony,Closing Ceremony,Olympic Stadium,8/9/20,20:00,23:00,
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/25/20,19:00,21:30,Men's 400m Individual Medley - Heats; Women's 100m Butterfly - Heats; Men's 400m Freestyle - Heats; Women's 400m Individual Medley - Heats; Men's 100m Breaststroke - Heats; Women's 4 x 100m Freestyle Relay - Heats
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/26/20,10:30,12:30,Men's 400m Individual Medley Final; Women's 100m Butterfly Semifinals; Men's 400m Freestyle Final; Women's 400m Individual Medley Final; Men's 100m Breaststroke Semifinals; Women's 4 x 100m Freestyle Relay Final
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/26/20,19:00,21:30,Women's 100m Backstroke - Heats; Men's 200m Freestyle - Heats; Women's 100m Breaststroke - Heats; Men's 100m Backstroke - Heats; Women's 400m Freestyle - Heats; Men's 4 x 100m Freestyle Relay - Heats
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/27/20,10:30,12:30,Women's 100m Butterfly Final; Men's 200m Freestyle Semifinals; Women's 100m Breaststroke Semifinals; Men's 100m Breaststroke Final; Women's 400m Freestyle Final; Men's 100m Backstroke Semifinals; Women's 100m Backstroke Semifinals; Men's 4 x 100m Freestyle Relay Final
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/27/20,19:00,21:30,Women's 200m Freestyle - Heats; Men's 200m Butterfly - Heats; Women's 200m Individual Medley - Heats; Women's 1500m Freestyle - Heats
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/28/20,10:30,12:30,Women's 200m Freestyle Semifinals; Men's 200m Freestyle Final; Women's 100m Backstroke Final; Men's 100m Backstroke Final; Women's 100m Breaststroke Final; Men's 200m Butterfly Semifinals; Women's 200m Individual Medley Semifinals
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/28/20,19:00,21:30,Men's 100m Freestyle - Heats; Women's 200m Butterfly - Heats; Men's 200m Breaststroke - Heats; Men's 4 x 200m Freestyle Relay - Heats; Men's 800m Freestyle - Heats
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/29/20,10:30,12:30,Men's 100m Freestyle Semifinals; Women's 200m Freestyle Final; Men's 200m Butterfly Final; Women's 200m Butterfly Semifinals; Men's 200m Breaststroke Semifinals; Women's 200m Individual Medley Final; Women's 1500m Freestyle Final; Men's 4 x 200m Freestyle Relay Final
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/29/20,19:00,21:30,Women's 100m Freestyle - Heats; Men's 200m Backstroke - Heats; Women's 200m Breaststroke - Heats; Men's 200m Individual Medley - Heats; Women's 4 x 200m Freestyle Relay - Heats
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/30/20,10:30,12:30,Men's 800m Freestyle Final; Men's 200m Breaststroke Final; Women's 100m Freestyle Semifinals; Men's 200m Backstroke Semifinals; Women's 200m Butterfly Final; Men's 100m Freestyle Final; Women's 200m Breaststroke Semifinals; Men's 200m Individual Medley Semifinals; Women's 4 x 200m Freestyle Relay Final
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/30/20,19:00,21:30,Women's 800m Freestyle - Heats; Men's 100m Butterfly - Heats; Women's 200m Backstroke - Heats; Mixed 4 x 100m Medley Relay - Heats
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/31/20,10:30,12:30,Women's 200m Breaststroke Final; Men's 200m Backstroke Final; Women's 200m Backstroke Semifinals; Men's 200m Individual Medley Final; Women's 100m Freestyle Final; Men's 100m Butterfly Semifinals
+1,Swimming,Swimming,Tokyo Aquatics Centre,7/31/20,19:00,21:30,Men's 50m Freestyle - Heats; Women's 50m Freestyle - Heats; Men's 1500m Freestyle - Heats; Women's 4 x 100m Medley Relay - Heats; Men's 4 x 100m Medley Relay - Heats
+1,Swimming,Swimming,Tokyo Aquatics Centre,8/1/20,10:30,12:30,Men's 100m Butterfly Final; Women's 200m Backstroke Final; Women's 800m Freestyle Final; Men's 50m Freestyle Semifinals; Women's 50m Freestyle Semifinals; Mixed 4 x 100m Medley Relay Final
+2,Swimming,Swimming,Tokyo Aquatics Centre,8/2/20,10:30,12:30,Men's 50m Freestyle Final; Women's 50m Freestyle Final; Men's 1500m Freestyle Final; Women's 4 x 100m Medley Relay Final; Men's 4 x 100m Medley Relay Final
+2,Diving,Diving,Tokyo Aquatics Centre,7/26/20,15:00,16:00,Women's Synchronized 3m Springboard Final
+2,Diving,Diving,Tokyo Aquatics Centre,7/27/20,15:00,16:00,Men's Synchronized 10m Platform Final
+2,Diving,Diving,Tokyo Aquatics Centre,7/28/20,15:00,16:00,Women's Synchronized 10m Platform Final
+2,Diving,Diving,Tokyo Aquatics Centre,7/29/20,15:00,16:00,Men's Synchronized 3m Springboard Final
+2,Diving,Diving,Tokyo Aquatics Centre,7/31/20,15:00,17:30,Women's 3m Springboard Preliminary
+2,Diving,Diving,Tokyo Aquatics Centre,8/1/20,15:00,16:30,Women's 3m Springboard Semifinal
+2,Diving,Diving,Tokyo Aquatics Centre,8/2/20,15:00,16:30,Women's 3m Springboard Final
+2,Diving,Diving,Tokyo Aquatics Centre,8/3/20,15:00,17:30,Men's 3m Springboard Preliminary
+2,Diving,Diving,Tokyo Aquatics Centre,8/4/20,10:00,11:30,Men's 3m Springboard Semifinal
+2,Diving,Diving,Tokyo Aquatics Centre,8/4/20,15:00,16:30,Men's 3m Springboard Final
+2,Diving,Diving,Tokyo Aquatics Centre,8/5/20,15:00,17:30,Women's 10m Platform Preliminary
+2,Diving,Diving,Tokyo Aquatics Centre,8/6/20,10:00,11:30,Women's 10m Platform Semifinal
+2,Diving,Diving,Tokyo Aquatics Centre,8/6/20,15:00,16:30,Women's 10m Platform Final
+2,Diving,Diving,Tokyo Aquatics Centre,8/7/20,15:00,17:30,Men's 10m Platform Preliminary
+2,Diving,Diving,Tokyo Aquatics Centre,8/8/20,10:00,11:30,Men's 10m Platform Semifinal
+2,Diving,Diving,Tokyo Aquatics Centre,8/8/20,15:00,16:30,Men's 10m Platform Final
+2,Artistic Swimming,Artistic Swimming,Tokyo Aquatics Centre,8/3/20,19:30,21:30,Duets Free Routine - Preliminary
+2,Artistic Swimming,Artistic Swimming,Tokyo Aquatics Centre,8/4/20,19:30,21:00,Duets Technical Routine
+2,Artistic Swimming,Artistic Swimming,Tokyo Aquatics Centre,8/5/20,19:30,21:00,Duets Free Routine - Final
+2,Artistic Swimming,Artistic Swimming,Tokyo Aquatics Centre,8/7/20,19:30,21:30,Teams Technical Routine
+2,Artistic Swimming,Artistic Swimming,Tokyo Aquatics Centre,8/8/20,19:30,21:00,Teams Free Routine - Final
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/25/20,14:00,16:40,Women's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/25/20,18:20,21:00,Women's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/26/20,10:00,12:40,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/26/20,14:10,16:50,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/26/20,18:20,21:00,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/27/20,14:00,16:40,Women's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/27/20,18:20,21:00,Women's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/28/20,10:00,12:40,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/28/20,14:10,16:50,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/28/20,18:20,21:00,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/29/20,14:00,16:40,Women's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/29/20,18:20,21:00,Women's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/30/20,10:00,12:40,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/30/20,14:10,16:50,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/30/20,18:20,21:00,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/31/20,14:00,16:40,Women's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,7/31/20,18:20,21:00,Women's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/1/20,10:00,12:40,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/1/20,14:10,16:50,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/1/20,18:20,21:00,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/2/20,14:00,16:40,Women's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/2/20,18:20,21:00,Women's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/3/20,10:00,12:40,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/3/20,14:10,16:50,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/3/20,18:20,21:00,Men's Preliminary Round (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/4/20,14:00,16:40,Women's Quarterfinals (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/4/20,18:20,21:00,Women's Quarterfinals (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/5/20,14:00,16:40,Men's Quarterfinals (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/5/20,18:20,21:00,Men's Quarterfinals (2 matches)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/6/20,14:00,16:40,Women's Semifinal; Classification matches (5th-8th places)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/6/20,18:20,21:00,Women's Semifinal; Classification matches (5th-8th places)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/7/20,14:00,16:40,Men's Semifinal; Classification matches (5th-8th places)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/7/20,18:20,21:00,Men's Semifinal; Classification matches (5th-8th places)
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/8/20,9:30,12:10,"Women's classification matches (5th-6th,7th-8th places)"
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/8/20,13:40,15:00,Women's Bronze Medal Match
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/8/20,16:30,18:20,Women's Gold Medal Match
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/9/20,9:30,12:10,"Men's classification matches (5th-6th,7th-8th places)"
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/9/20,13:40,15:00,Men's Bronze Medal Match
+2,Water Polo,Water Polo,Tatsumi Water Polo Centre,8/9/20,16:30,18:20,Men's Gold Medal Match
+2,Marathon Swimming,Marathon Swimming,Odaiba Marine Park,8/5/20,7:00,10:00,Women's 10km
+2,Marathon Swimming,Marathon Swimming,Odaiba Marine Park,8/6/20,7:00,10:00,Men's 10km
+2,Archery,,Yumenoshima Park Archery Field,7/24/20,9:00,11:00,Women's Individual Ranking Round;  *Session tickets not for sale
+2,Archery,,Yumenoshima Park Archery Field,7/24/20,13:00,15:00,Men's Individual Ranking Round;  *Session tickets not for sale
+2,Archery,,Yumenoshima Park Archery Field,7/25/20,9:30,12:05,Mixed Team 1/8 Eliminations
+2,Archery,,Yumenoshima Park Archery Field,7/25/20,14:15,17:25,Mixed Team Quarterfinals; Mixed Team Semifinals; Mixed Team Bronze Medal Match; Mixed Team Gold Medal Match; Mixed Team Victory Ceremony
+2,Archery,,Yumenoshima Park Archery Field,7/26/20,9:30,11:05,Women's Team 1/8 Eliminations
+2,Archery,,Yumenoshima Park Archery Field,7/26/20,13:45,17:25,Women's Team Quarterfinals; Women's Team Semifinals; Women's Team Bronze Medal Match; Women's Team Gold Medal Match; Women's Team Victory Ceremony
+2,Archery,,Yumenoshima Park Archery Field,7/27/20,9:30,11:05,Men's Team 1/8 Eliminations
+2,Archery,,Yumenoshima Park Archery Field,7/27/20,13:45,17:25,Men's Team Quarterfinals; Men's Team Semifinals; Men's Team Bronze Medal Match; Men's Team Gold Medal Match; Men's Team Victory Ceremony
+3,Archery,,Yumenoshima Park Archery Field,7/28/20,9:30,13:25,Men's Individual 1/32 & 1/16 Eliminations; Women's Individual 1/32 & 1/16 Eliminations
+3,Archery,,Yumenoshima Park Archery Field,7/28/20,16:00,19:55,Men's Individual 1/32 & 1/16 Eliminations; Women's Individual 1/32 & 1/16 Eliminations
+3,Archery,,Yumenoshima Park Archery Field,7/29/20,9:30,13:25,Men's Individual 1/32 & 1/16 Eliminations; Women's Individual 1/32 & 1/16 Eliminations
+3,Archery,,Yumenoshima Park Archery Field,7/29/20,16:00,18:40,Men's Individual 1/32 & 1/16 Eliminations; Women's Individual 1/32 & 1/16 Eliminations
+3,Archery,,Yumenoshima Park Archery Field,7/30/20,9:30,13:25,Men's Individual 1/32 & 1/16 Eliminations; Women's Individual 1/32 & 1/16 Eliminations
+3,Archery,,Yumenoshima Park Archery Field,7/30/20,16:00,18:40,Men's Individual 1/32 & 1/16 Eliminations; Women's Individual 1/32 & 1/16 Eliminations
+3,Archery,,Yumenoshima Park Archery Field,7/31/20,9:30,11:15,Women's Individual 1/8 Eliminations
+3,Archery,,Yumenoshima Park Archery Field,7/31/20,14:45,17:20,Women's Individual Quarterfinals; Women's Individual Semifinals; Women's Individual Bronze Medal Match; Women's Individual Gold Medal Match; Women's Individual Victory Ceremony
+3,Archery,,Yumenoshima Park Archery Field,8/1/20,9:30,11:15,Men's Individual 1/8 Eliminations
+3,Archery,,Yumenoshima Park Archery Field,8/1/20,14:45,17:20,Men's Individual Quarterfinals; Men's Individual Semifinals; Men's Individual Bronze Medal Match; Men's Individual Gold Medal Match; Men's Individual Victory Ceremony
+3,Athletics,Track & Field,Olympic Stadium,7/31/20,9:00,12:30,Men's 3000m Steeplechase Round 1; Men's High Jump Qualifying Round; Men's Discus Throw Qualifying Round; Women's 800m Round 1; Men's 400m Hurdles Round 1; Women's 100m Round 1
+3,Athletics,Track & Field,Olympic Stadium,7/31/20,19:00,21:10,"Women's 5000m Round 1; Women's Triple Jump Qualifying Round; Women's Shot Put Qualifying Round; Mixed 4 x 400m Relay Round 1; Men's 20km Race Walk Victory Ceremony; Men's 10,000m Final"
+3,Athletics,Track & Field,Olympic Stadium,8/1/20,9:00,12:00,Women's 400m Hurdles Round 1; Women's Discus Throw Qualifying Round; Men's Pole Vault Qualifying Round; Men's 800m Round 1; Women's 100m Hurdles Qualifying Round; Men's 100m Preliminary Round
+3,Athletics,Track & Field,Olympic Stadium,8/1/20,19:00,21:55,"Men's 10,000m Victory Ceremony; Men's Long Jump Qualifying Round; Women's 100m Semifinals; Men's 100m Round 1; Men's Discus Throw Final; Women's 800m Semifinals; Mixed 4 x 400m Relay Final; Women's 100m Final"
+3,Athletics,Track & Field/Marathon,Olympic Stadium,8/2/20,6:00,12:00,Women's Marathon Final; Women's Hammer Throw Qualifying Round; Women's Marathon Victory Ceremony; Women's 3000m Steeplechase Round 1; Women's Long Jump Qualifying Round; Men's Discus Throw Victory Ceremony; Women's Shot Put Final; Men's 400m Round 1; Mixed 4 x 400m Relay Victory Ceremony
+3,Athletics,Track & Field,Olympic Stadium,8/2/20,19:00,21:55,Women's 100m Victory Ceremony; Men's High Jump Final; Men's 100m Semifinals; Women's 100m Hurdles Semifinals; Women's Shot Put Victory Ceremony; Women's Triple Jump Final; Men's 800m Semifinals; Men's 400m Hurdles Semifinals; Men's High Jump Victory Ceremony; Men's 100m Final
+3,Athletics,Track & Field,Olympic Stadium,8/3/20,9:00,11:55,Men's Hammer Throw Qualifying Round; Women's 1500m Round 1; Women's Triple Jump Victory Ceremony; Men's Long Jump Final; Women's 200m Round 1; Women's 100m Hurdles Final
+3,Athletics,Track & Field,Olympic Stadium,8/3/20,19:00,22:00,Men's 100m Victory Ceremony; Men's Long Jump Victory Ceremony; Women's Pole Vault Qualifying Round; Women's 200m Semifinals; Women's 100m Hurdles Victory Ceremony; Women's Discus Throw Final; Men's 400m Semifinals; Women's 400m Hurdles Semifinals; Men's 3000m Steeplechase Final; Women's 5000m Final
+4,Athletics,Track & Field,Olympic Stadium,8/4/20,9:00,12:35,Men's Triple Jump Qualifying Round; Men's 1500m Round 1; Women's Javelin Throw Qualifying Round; Women's 400m Round 1; Women's Discus Throw Victory Ceremony; Men's 3000m Steeplechase Victory Ceremony; Women's Long Jump Final; Men's 200m Round 1; Men's 400m Hurdles Final; Women's 5000m Victory Ceremony
+4,Athletics,Track & Field,Olympic Stadium,8/4/20,19:00,21:55,Women's Long Jump Victory Ceremony; Men's 110m Hurdles Round 1; Men's Shot Put Qualifying Round; Men's Pole Vault Final; Men's 400m Hurdles Victory Ceremony; Men's 5000m Round 1; Women's Hammer Throw Final; Men's 200m Semifinals; Women's 800m Final; Women's 200m Final
+4,Athletics,Track & Field,Olympic Stadium,8/5/20,9:00,12:15,Men's Decathlon 100m; Men's Javelin Throw Qualifying Round; Women's Heptathlon 100m Hurdles; Men's Decathlon Long Jump; Men's Pole Vault Victory Ceremony; Women's Heptathlon High Jump; Women's Hammer Throw Victory Ceremony; Women's 800m Victory Ceremony; Men's 110m Hurdles Semifinals; Men's Decathlon Shot Put; Women's 400m Hurdles Final; Women's 400m Hurdles Victory Ceremony
+4,Athletics,Track & Field,Olympic Stadium,8/5/20,18:30,22:00,Men's Decathlon High Jump; Women's 1500m Semifinals; Women's Heptathlon Shot Put; Women's 400m Semifinals; Women's 200m Victory Ceremony; Women's 3000m Steeplechase Final; Men's Hammer Throw Final; Women's Heptathlon 200m; Women's 3000m Steeplechase Victory Ceremony; Men's 800m Final; Men's Decathlon 400m; Men's 200m Final
+4,Athletics,Track & Field,Olympic Stadium,8/6/20,9:00,14:50,Men's Decathlon 110m Hurdles; Women's High Jump Qualifying Round; Men's Hammer Throw Victory Ceremony; Women's Heptathlon Long Jump; Men's Decathlon Discus Throw; Women's 4 x 100m Relay Round 1; Men's 800m Victory Ceremony; Men's 200m Victory Ceremony; Men's Triple Jump Final; Men's Shot Put Final; Men's 4 x 100m Relay Round 1; Men's 110m Hurdles Final; Men's Decathlon Pole Vault; Women's Heptathlon Javelin Throw
+4,Athletics,Track & Field,Olympic Stadium,8/6/20,19:00,21:45,Men's Shot Put Victory Ceremony; Men's Triple Jump Victory Ceremony; Men's Decathlon Javelin Throw; Women's Pole Vault Final; Women's 4 x 400m Relay Round 1; Men's 1500m Semifinals; Men's 110m Hurdles Victory Ceremony; Men's 400m Final; Women's Heptathlon 800m; Men's Decathlon 1500m
+4,Athletics,Track & Field,Olympic Stadium,8/7/20,20:00,22:55,Women's Pole Vault Victory Ceremony; Women's Heptathlon Victory Ceremony; Men's Decathlon Victory Ceremony; Men's 4 x 400m Relay Round 1; Women's 20km Race Walk Victory Ceremony; Women's Javelin Throw Final; Men's 5000m Final; Men's 400m Victory Ceremony; Women's 400m Final; Women's 1500m Final; Men's 5000m Victory Ceremony; Women's 400m Victory Ceremony; Women's 4 x 100m Relay Final; Women's 1500m Victory Ceremony; Men's 4 x 100m Relay Final
+5,Athletics,Track & Field,Olympic Stadium,8/8/20,19:00,22:20,"Women's Javelin Throw Victory Ceremony; Women's 4 x 100m Relay Victory Ceremony; Men's 4 x 100m Relay Victory Ceremony; Men's 50km Race Walk Victory Ceremony; Women's High Jump Final; Women's 10,000m Final; Men's Javelin Throw Final; Men's 1500m Final; Women's 10,000m Victory Ceremony; Men's 1500m Victory Ceremony; Women's 4 x 400m Relay Final; Men's Javelin Throw Victory Ceremony; Men's 4 x 400m Relay Final; Women's High Jump Victory Ceremony; Women's 4 x 400m Relay Victory Ceremony; Men's 4 x 400m Relay Victory Ceremony"
+5,Athletics,Marathon,Olympic Stadium,8/9/20,6:00,8:45,Men's Marathon Final
+5,Athletics,Race Walk,Imperial Palace Garden,7/31/20,6:00,7:35,Men's 20km Race Walk Final*This is a non-ticketed event.
+5,Athletics,Race Walk,Imperial Palace Garden,8/7/20,6:00,7:45,Women's 20km Race Walk Final*This is a non-ticketed event.
+5,Athletics,Race Walk,Imperial Palace Garden,8/8/20,5:30,10:00,Men's 50km Race Walk Final*This is a non-ticketed event.
+5,Badminton,,Musashino Forest Sport Plaza,7/25/20,9:00,14:30,Men's Singles Group Play Stage; Women's Singles Group Play Stage; Men's Doubles Group Play Stage; Women's Doubles Group Play Stage; Mixed Doubles Group Play Stage
+5,Badminton,,Musashino Forest Sport Plaza,7/25/20,18:00,22:00,Men's Singles Group Play Stage; Women's Singles Group Play Stage; Men's Doubles Group Play Stage; Women's Doubles Group Play Stage; Mixed Doubles Group Play Stage
+5,Badminton,,Musashino Forest Sport Plaza,7/26/20,10:00,15:30,Men's Singles Group Play Stage; Women's Singles Group Play Stage; Men's Doubles Group Play Stage; Women's Doubles Group Play Stage; Mixed Doubles Group Play Stage
+5,Badminton,,Musashino Forest Sport Plaza,7/26/20,18:00,21:30,Men's Singles Group Play Stage; Women's Singles Group Play Stage; Men's Doubles Group Play Stage; Women's Doubles Group Play Stage; Mixed Doubles Group Play Stage
+5,Badminton,,Musashino Forest Sport Plaza,7/27/20,10:00,15:30,Men's Singles Group Play Stage; Women's Singles Group Play Stage; Men's Doubles Group Play Stage; Women's Doubles Group Play Stage; Mixed Doubles Group Play Stage
+5,Badminton,,Musashino Forest Sport Plaza,7/27/20,18:00,21:30,Men's Singles Group Play Stage; Women's Singles Group Play Stage; Men's Doubles Group Play Stage; Women's Doubles Group Play Stage; Mixed Doubles Group Play Stage
+5,Badminton,,Musashino Forest Sport Plaza,7/28/20,10:00,15:30,Men's Singles Group Play Stage; Women's Singles Group Play Stage; Men's Doubles Group Play Stage; Women's Doubles Group Play Stage
+5,Badminton,,Musashino Forest Sport Plaza,7/28/20,18:00,21:30,Men's Singles Group Play Stage; Women's Singles Group Play Stage; Men's Doubles Group Play Stage; Women's Doubles Group Play Stage
+5,Badminton,,Musashino Forest Sport Plaza,7/29/20,9:00,14:30,Men's Singles Group Play Stage; Women's Singles Group Play Stage; Mixed Doubles Quarterfinals
+5,Badminton,,Musashino Forest Sport Plaza,7/29/20,18:00,21:30,Men's Singles Group Play Stage
+5,Badminton,,Musashino Forest Sport Plaza,7/30/20,9:00,15:30,Mixed Doubles Semifinals; Men's Doubles Quarterfinals; Women's Singles Round of 16
+5,Badminton,,Musashino Forest Sport Plaza,7/30/20,17:00,22:00,Men's Singles Round of 16; Women's Doubles Quarterfinals
+5,Badminton,,Musashino Forest Sport Plaza,7/31/20,9:00,12:30,Women's Singles Quarterfinals; Mixed Doubles Bronze Medal Match
+5,Badminton,,Musashino Forest Sport Plaza,7/31/20,15:30,21:30,Mixed Doubles Gold Medal Match; Mixed Doubles Victory Ceremony; Women's Singles Quarterfinals; Men's Doubles Semifinals
+5,Badminton,,Musashino Forest Sport Plaza,8/1/20,9:00,16:00,Men's Singles Quarterfinals; Women's Doubles Semifinals
+5,Badminton,,Musashino Forest Sport Plaza,8/1/20,18:00,23:00,Women's Singles Semifinals; Men's Doubles Bronze Medal Match; Men's Doubles Gold Medal Match; Men's Doubles Victory Ceremony
+5,Badminton,,Musashino Forest Sport Plaza,8/2/20,13:00,16:00,Men's Singles Semifinals
+5,Badminton,,Musashino Forest Sport Plaza,8/2/20,20:30,23:00,Women's Singles Bronze Medal Match; Women's Singles Gold Medal Match; Women's Singles Victory Ceremony
+5,Badminton,,Musashino Forest Sport Plaza,8/3/20,13:00,15:30,Women's Doubles Bronze Medal Match; Women's Doubles Gold Medal Match; Women's Doubles Victory Ceremony
+6,Badminton,,Musashino Forest Sport Plaza,8/3/20,20:00,23:00,Men's Singles Bronze Medal Match; Men's Singles Gold Medal Match; Men's Singles Victory Ceremony
+6,Baseball/Softball,Baseball,Fukushima Azuma Baseball Stadium,7/29/20,12:00,15:00,Men's Baseball Opening Round
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,7/30/20,19:00,22:00,Men's Baseball Opening Round
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,7/31/20,12:00,15:00,Men's Baseball Opening Round
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,7/31/20,19:00,22:00,Men's Baseball Opening Round
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/1/20,12:00,15:00,Men's Baseball Opening Round
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/1/20,19:00,22:00,Men's Baseball Opening Round
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/2/20,12:00,15:00,Men's Baseball Knockout Stage
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/2/20,19:00,22:00,Men's Baseball Knockout Stage
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/3/20,12:00,15:00,Men's Baseball Knockout Stage
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/3/20,19:00,22:00,Men's Baseball Knockout Stage
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/4/20,19:00,22:00,Men's Baseball Knockout Stage
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/5/20,12:00,15:00,Men's Baseball Knockout Stage
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/5/20,19:00,22:00,Men's Baseball Semifinal
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/6/20,19:00,22:00,Men's Baseball Semifinal
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/8/20,12:00,15:00,Men's Baseball Bronze Medal Game
+6,Baseball/Softball,Baseball,Yokohama Baseball Stadium,8/8/20,19:00,22:30,Men's Baseball Gold Medal Game
+6,Baseball/Softball,Softball,Fukushima Azuma Baseball Stadium,7/22/20,9:00,17:00,Women's Softball Preliminary Round (3 matches)
+6,Baseball/Softball,Softball,Fukushima Azuma Baseball Stadium,7/23/20,9:00,17:00,Women's Softball Preliminary Round (3 matches)
+6,Baseball/Softball,Softball,Yokohama Baseball Stadium,7/25/20,10:00,16:30,Women's Softball Preliminary Round (2 matches)
+6,Baseball/Softball,Softball,Yokohama Baseball Stadium,7/25/20,20:00,22:00,Women's Softball Preliminary Round (1 match)
+6,Baseball/Softball,Softball,Yokohama Baseball Stadium,7/26/20,10:00,16:30,Women's Softball Preliminary Round (2 matches)
+6,Baseball/Softball,Softball,Yokohama Baseball Stadium,7/26/20,20:00,22:00,Women's Softball Preliminary Round (1 match)
+6,Baseball/Softball,Softball,Yokohama Baseball Stadium,7/27/20,10:00,16:30,Women's Softball Preliminary Round (2 matches)
+6,Baseball/Softball,Softball,Yokohama Baseball Stadium,7/27/20,20:00,22:00,Women's Softball Preliminary Round (1 match)
+6,Baseball/Softball,Softball,Yokohama Baseball Stadium,7/28/20,13:00,15:00,Women's Softball Bronze Medal Game
+6,Baseball/Softball,Softball,Yokohama Baseball Stadium,7/28/20,20:00,22:30,Women's Softball Gold Medal Game; Women's Softball Victory Ceremony
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/25/20,10:15,12:25,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/25/20,14:00,15:50,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/25/20,17:30,19:30,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/25/20,21:00,22:50,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/26/20,10:15,12:25,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/26/20,14:00,15:50,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/26/20,17:30,19:30,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/26/20,21:00,22:50,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/27/20,10:15,12:25,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/27/20,14:00,15:50,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/27/20,17:30,19:30,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/27/20,21:00,22:50,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/28/20,13:30,15:30,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/28/20,17:00,18:50,Women's Pool Round (2 games); Men's Pool Round (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/28/20,20:30,22:50,Women's Quarterfinals (2 games); Men's Quarterfinals (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/29/20,17:00,19:10,Women's Semifinals (2 games); Men's Semifinals (2 games)
+6,Basketball,3x3 Basketball,Aomi Urban Sports Park,7/29/20,20:45,23:25,Women's Bronze Medal Game; Men's Bronze Medal Game; Women's Gold Medal Game; Men's Gold Medal Game; Women's Victory Ceremony; Men's Victory Ceremony
+6,Basketball,Basketball,Saitama Super Arena,7/26/20,10:00,12:00,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/26/20,13:40,15:40,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/26/20,17:20,19:20,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/26/20,21:00,23:00,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/27/20,10:00,12:00,Women's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/27/20,13:40,15:40,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/27/20,17:20,19:20,Women's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/27/20,21:00,23:00,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/28/20,10:00,12:00,Women's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/28/20,13:40,15:40,Women's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/28/20,17:20,19:20,Women's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/28/20,21:00,23:00,Women's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/29/20,10:00,12:00,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/29/20,13:40,15:40,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/29/20,17:20,19:20,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/29/20,21:00,23:00,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/30/20,10:00,12:00,Women's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/30/20,13:40,15:40,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/30/20,17:20,19:20,Women's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/30/20,21:00,23:00,Men's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/31/20,10:00,12:00,Women's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/31/20,13:40,15:40,Women's Preliminary Round
+6,Basketball,Basketball,Saitama Super Arena,7/31/20,17:20,19:20,Women's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,7/31/20,21:00,23:00,Women's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/1/20,10:00,12:00,Men's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/1/20,13:40,15:40,Men's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/1/20,17:20,19:20,Men's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/1/20,21:00,23:00,Men's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/2/20,10:00,12:00,Women's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/2/20,13:40,15:40,Men's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/2/20,17:20,19:20,Men's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/2/20,21:00,23:00,Women's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/3/20,10:00,12:00,Women's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/3/20,13:40,15:40,Women's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/3/20,17:20,19:20,Women's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/3/20,21:00,23:00,Women's Preliminary Round
+7,Basketball,Basketball,Saitama Super Arena,8/4/20,10:00,12:00,Men's Quarterfinal
+7,Basketball,Basketball,Saitama Super Arena,8/4/20,13:40,15:40,Men's Quarterfinal
+7,Basketball,Basketball,Saitama Super Arena,8/4/20,17:20,19:20,Men's Quarterfinal
+7,Basketball,Basketball,Saitama Super Arena,8/4/20,21:00,23:00,Men's Quarterfinal
+7,Basketball,Basketball,Saitama Super Arena,8/5/20,10:00,12:00,Women's Quarterfinal
+7,Basketball,Basketball,Saitama Super Arena,8/5/20,13:40,15:40,Women's Quarterfinal
+7,Basketball,Basketball,Saitama Super Arena,8/5/20,17:20,19:20,Women's Quarterfinal
+7,Basketball,Basketball,Saitama Super Arena,8/5/20,21:00,23:00,Women's Quarterfinal
+7,Basketball,Basketball,Saitama Super Arena,8/6/20,13:15,15:15,Men's Semifinal
+7,Basketball,Basketball,Saitama Super Arena,8/6/20,20:00,22:00,Men's Semifinal
+7,Basketball,Basketball,Saitama Super Arena,8/7/20,13:15,15:15,Women's Semifinal
+7,Basketball,Basketball,Saitama Super Arena,8/7/20,20:00,22:00,Women's Semifinal
+7,Basketball,Basketball,Saitama Super Arena,8/8/20,11:30,13:30,Men's Gold Medal Game
+7,Basketball,Basketball,Saitama Super Arena,8/8/20,16:00,18:00,Women's Bronze Medal Game
+7,Basketball,Basketball,Saitama Super Arena,8/8/20,20:00,22:30,Men's Bronze Medal Game; Men's Victory Ceremony
+7,Basketball,Basketball,Saitama Super Arena,8/9/20,11:30,14:00,Women's Gold Medal Game; Women's Victory Ceremony
+7,Boxing,,Kokugikan Arena,7/25/20,11:00,14:15,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/25/20,17:00,20:15,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/26/20,11:00,15:00,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/26/20,17:00,21:00,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/27/20,11:00,14:15,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/27/20,17:00,20:15,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/28/20,11:00,14:15,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/28/20,17:00,20:15,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/29/20,11:00,14:30,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/29/20,17:00,20:30,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/30/20,11:00,14:00,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/30/20,17:00,20:00,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/31/20,11:00,14:30,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,7/31/20,17:00,20:30,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,8/1/20,11:00,13:30,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,8/1/20,17:00,19:30,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,8/2/20,11:00,13:15,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,8/2/20,17:00,19:15,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,8/4/20,11:00,13:30,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+7,Boxing,,Kokugikan Arena,8/4/20,17:00,19:30,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+8,Boxing,,Kokugikan Arena,8/5/20,14:00,17:00,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+8,Boxing,,Kokugikan Arena,8/6/20,14:00,16:00,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+8,Boxing,,Kokugikan Arena,8/7/20,14:00,16:30,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+8,Boxing,,Kokugikan Arena,8/8/20,14:00,16:00,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+8,Boxing,,Kokugikan Arena,8/9/20,14:00,16:00,* The competition schedule of boxing is provisional due to the decisionmade by the IOC Executive Board on 30 November 2018 that freezesthe planning for the Olympic boxing tournament at Tokyo 2020.
+8,Canoe,Slalom,Kasai Canoe Slalom Centre,7/26/20,13:00,16:45,Canoe (C1) Men Heats; Kayak (K1) Women Heats
+8,Canoe,Slalom,Kasai Canoe Slalom Centre,7/27/20,14:00,16:45,Canoe (C1) Men Semi-final; Canoe (C1) Men Final; Canoe (C1) Men Victory Ceremony
+8,Canoe,Slalom,Kasai Canoe Slalom Centre,7/28/20,14:00,17:00,Kayak (K1) Women Semi-final; Kayak (K1) Women Final; Kayak (K1) Women Victory Ceremony
+8,Canoe,Slalom,Kasai Canoe Slalom Centre,7/29/20,13:00,16:45,Canoe (C1) Women Heats; Kayak (K1) Men Heats
+8,Canoe,Slalom,Kasai Canoe Slalom Centre,7/30/20,14:00,16:45,Canoe (C1) Women Semi-final; Canoe (C1) Women Final; Canoe (C1) Women Victory Ceremony
+8,Canoe,Slalom,Kasai Canoe Slalom Centre,7/31/20,14:00,17:00,Kayak (K1) Men Semi-final; Kayak (K1) Men Final; Kayak (K1) Men Victory Ceremony
+8,Canoe,Sprint,Sea Forest Waterway,8/3/20,9:30,13:00,Women's Kayak Single 200m Heats; Men's Canoe Double 1000m Heats; Men's Kayak Single 1000m Heats; Women's Kayak Double 500m Heats; Women's Kayak Single 200m Quarterfinals; Men's Canoe Double 1000m Quarterfinals; Men's Kayak Single 1000m Quarterfinals; Women's Kayak Double 500m Quarterfinals
+8,Canoe,Sprint,Sea Forest Waterway,8/4/20,9:30,13:15,Women's Kayak Single 200m Semifinals; Men's Canoe Double 1000m Semifinals; Men's Kayak Single 1000m Semifinals; Women's Kayak Double 500m Semifinals; Women's Kayak Single 200m Finals; Men's Canoe Double 1000m Finals; Women's Kayak Single 200m Victory Ceremony; Men's Kayak Single 1000m Finals; Men's Canoe Double 1000m Victory Ceremony; Women's Kayak Double 500m Finals; Men's Kayak Single 1000m Victory Ceremony; Women's Kayak Double 500m Victory Ceremony
+8,Canoe,Sprint,Sea Forest Waterway,8/5/20,9:30,12:40,Men's Kayak Single 200m Heats; Women's Canoe Single 200m Heats; Women's Kayak Single 500m Heats; Men's Kayak Double 1000m Heats; Men's Kayak Single 200m Quarterfinals; Women's Canoe Single 200m Quarterfinals; Women's Kayak Single 500m Quarterfinals; Men's Kayak Double 1000m Quarterfinals
+8,Canoe,Sprint,Sea Forest Waterway,8/6/20,9:30,13:05,Men's Kayak Single 200m Semifinals; Women's Canoe Single 200m Semifinals; Women's Kayak Single 500m Semifinals; Men's Kayak Double 1000m Semifinals; Men's Kayak Single 200m Finals; Women's Canoe Single 200m Finals; Men's Kayak Single 200m Victory Ceremony; Women's Kayak Single 500m Finals; Women's Canoe Single 200m Victory Ceremony; Men's Kayak Double 1000m Finals; Women's Kayak Single 500m Victory Ceremony; Men's Kayak Double 1000m Victory Ceremony
+8,Canoe,Sprint,Sea Forest Waterway,8/7/20,9:30,11:40,Women's Canoe Double 500m Heats; Men's Canoe Single 1000m Heats; Women's Kayak Four 500m Heats; Men's Kayak Four 500m Heats; Women's Canoe Double 500m Quarterfinals; Men's Canoe Single 1000m Quarterfinals
+8,Canoe,Sprint,Sea Forest Waterway,8/8/20,9:30,12:50,Women's Canoe Double 500m Semifinals; Men's Canoe Single 1000m Semifinals; Women's Kayak Four 500m Semifinals; Men's Kayak Four 500m Semifinals; Women's Canoe Double 500m Finals; Men's Canoe Single 1000m Finals; Men's Canoe Single 1000m Victory Ceremony; Women's Kayak Four 500m Final; Women's Canoe Double 500m Victory Ceremony; Men's Kayak Four 500m Final; Women's Kayak Four 500m Victory Ceremony; Men's Kayak Four 500m Victory Ceremony
+8,Cycling,BMX Freestyle,Ariake Urban Sports Park,8/1/20,10:10,12:20,Men's Freestyle Park Seeding; Women's Freestyle Park Seeding
+9,Cycling,BMX Freestyle,Ariake Urban Sports Park,8/2/20,10:10,12:45,Men's Freestyle Park Final; Women's Freestyle Park Final; Men's Freestyle Park Victory Ceremony; Women's Freestyle Park Victory Ceremony
+9,Cycling,BMX Racing,Ariake Urban Sports Park,7/30/20,10:00,12:00,Men's Racing Quarterfinals; Women's Racing Quarterfinals
+9,Cycling,BMX Racing,Ariake Urban Sports Park,7/31/20,10:00,12:20,Men's Racing Semifinals; Women's Racing Semifinals; Men's Racing Final; Women's Racing Final; Men's Racing Victory Ceremony; Women's Racing Victory Ceremony
+9,Cycling,Mountain Bike,Izu MTB Course,7/27/20,15:00,17:00,Men's Cross-country; Men's Cross-country Victory Ceremony
+9,Cycling,Mountain Bike,Izu MTB Course,7/28/20,15:00,17:00,Women's Cross-country; Women's Cross-country Victory Ceremony
+9,Cycling,Road,Fuji International Speedway,7/25/20,11:00,18:15,Men's Road Race; Men's Road Race Victory Ceremony*Start from Musashinonomori Park.
+9,Cycling,Road,Fuji International Speedway,7/26/20,13:00,17:35,Women's Road Race; Women's Road Race Victory Ceremony*Start from Musashinonomori Park.
+9,Cycling,Road,Fuji International Speedway,7/29/20,11:30,17:20,Men's Individual Time Trial; Women's Individual Time Trial; Men's Individual Time Trial Victory Ceremony; Women's Individual Time Trial Victory Ceremony
+9,Cycling,Track,Izu Velodrome,8/3/20,15:30,18:30,Women's Team Sprint Qualifying; Women's Team Pursuit Qualifying; Women's Team Sprint First round; Men's Team Pursuit Qualifying; Women's Team Sprint Finals; Women's Team Sprint Victory Ceremony
+9,Cycling,Track,Izu Velodrome,8/4/20,15:30,18:10,Women's Team Pursuit First round; Men's Team Sprint Qualifying; Men's Team Pursuit First round; Men's Team Sprint First round; Women's Team Pursuit Finals; Men's Team Sprint Finals; Women's Team Pursuit Victory Ceremony; Men's Team Sprint Victory Ceremony
+9,Cycling,Track,Izu Velodrome,8/5/20,15:30,19:00,Men's Sprint Qualifying; Women's Keirin First round; Men's Sprint 1/32 Finals; Women's Keirin First round Repechages; Men's Sprint 1/32 Finals Repechages; Men's Team Pursuit Finals; Men's Sprint 1/16 Finals; Men's Team Pursuit Victory Ceremony; Men's Sprint 1/16 Finals Repechages
+9,Cycling,Track,Izu Velodrome,8/6/20,15:30,18:50,Men's Omnium Scratch Race 1\4; Men's Sprint 1/8 Finals; Women's Keirin Second Round; Men's Sprint 1/8 Finals Repechages; Men's Omnium Tempo Race 2\4; Men's Sprint 1/4 Finals; Women's Keirin Third Round; Men's Omnium Elimination Race 3\4; Women's Keirin Final Places 7 to 12; Women's Keirin Finals; Men's Omnium Points Race 4\4; Men's Sprint Final Places 5 to 8; Women's Keirin Victory Ceremony; Men's Omnium Victory Ceremony
+9,Cycling,Track,Izu Velodrome,8/7/20,15:30,19:15,Women's Sprint Qualifying; Men's Sprint 1/2 Finals; Women's Sprint 1/32 Finals; Women's Sprint 1/32 Finals Repechages; Women's Madison Final; Men's Sprint Final Places 3-4 & 1-2; Women's Sprint 1/16 Finals; Women's Madison Victory Ceremony; Women's Sprint 1/16 Finals Repechages; Men's Sprint Victory Ceremony
+9,Cycling,Track,Izu Velodrome,8/8/20,15:30,18:25,Women's Sprint 1/8 Finals; Men's Keirin First Round; Women's Sprint 1/8 Finals Repechages; Men's Keirin First Round Repechages; Women's Sprint 1/4 Finals; Men's Madison Final; Men's Madison Victory Ceremony
+10,Cycling,Track,Izu Velodrome,8/9/20,10:00,13:15,Women's Omnium Scratch Race 1\4; Women's Sprint 1/2 Finals; Men's Keirin Second Round; Women's Omnium Tempo Race 2\4; Women's Sprint Final Places 5 to 8; Men's Keirin Third Round; Women's Sprint Final Places 3-4 & 1-2; Women's Omnium Elimination Race 3\4; Men's Keirin Final Places 7 to 12; Men's Keirin Final 1 - 6; Men's Keirin Victory Ceremony; Women's Omnium Points Race 4\4; Women's Sprint Victory Ceremony; Women's Omnium Victory Ceremony
+10,Equestrian,Dressage,Equestrian Park,7/25/20,17:00,22:00,Dressage Grand Prix Team and Individual Day 1
+10,Equestrian,Dressage,Equestrian Park,7/26/20,17:00,22:00,Dressage Grand Prix Team and Individual Day 2
+10,Equestrian,Dressage,Equestrian Park,7/28/20,17:30,22:40,Dressage Team Grand Prix Special; Dressage Team Victory Ceremony
+10,Equestrian,Dressage,Equestrian Park,7/29/20,17:30,21:25,Dressage Individual Grand Prix Freestyle; Dressage Individual Victory Ceremony
+10,Equestrian,Eventing,Equestrian Park,7/31/20,8:00,11:10,Eventing Dressage Team and Individual Day 1 - Session 1
+10,Equestrian,Eventing,Equestrian Park,7/31/20,17:30,20:55,Eventing Dressage Team and Individual Day 1 - Session 2
+10,Equestrian,Eventing,Equestrian Park,8/1/20,8:00,11:10,Eventing Dressage Team and Individual Day 2 - Session 3
+10,Equestrian,Eventing,Sea Forest Cross-Country Course,8/2/20,8:30,11:55,Eventing Cross Country Team and Individual
+10,Equestrian,Eventing,Equestrian Park,8/3/20,17:00,22:25,Eventing Jumping Team Final and Individual Qualifier; Eventing Jumping Individual Final; Eventing Team Victory Ceremony; Eventing Individual Victory Ceremony
+10,Equestrian,Jumping,Equestrian Park,8/4/20,19:00,22:45,Jumping Individual Qualifier
+10,Equestrian,Jumping,Equestrian Park,8/5/20,19:00,21:40,Jumping Individual Final; Jumping Individual Victory Ceremony
+10,Equestrian,Jumping,Equestrian Park,8/7/20,19:00,22:05,Jumping Team Qualifier
+10,Equestrian,Jumping,Equestrian Park,8/8/20,19:00,21:20,Jumping Team Final; Jumping Team Victory Ceremony
+10,Fencing,,Makuhari Messe Hall,7/25/20,9:00,15:40,Women's Epée Individual Table of 64; Men's Sabre Individual Table of 64; Women's Epée Individual Table of 32; Men's Sabre Individual Table of 32; Women's Epée Individual Table of 16; Men's Sabre Individual Table of 16; Women's Epée Individual Quarterfinals; Men's Sabre Individual Quarterfinals
+10,Fencing,,Makuhari Messe Hall,7/25/20,17:30,21:30,Women's Epée Individual Semifinals; Men's Sabre Individual Semifinals; Women's Epée Individual Bronze Medal Bout; Men's Sabre Individual Bronze Medal Bout; Women's Epée Individual Gold Medal Bout; Men's Sabre Individual Gold Medal Bout; Women's Epée Individual Victory Ceremony; Men's Sabre Individual Victory Ceremony
+10,Fencing,,Makuhari Messe Hall,7/26/20,9:00,16:20,Women's Foil Individual Table of 64; Men's Epée Individual Table of 64; Women's Foil Individual Table of 32; Men's Epée Individual Table of 32; Women's Foil Individual Table of 16; Men's Epée Individual Table of 16; Women's Foil Individual Quarterfinals; Men's Epée Individual Quarterfinals
+10,Fencing,,Makuhari Messe Hall,7/26/20,18:00,22:20,Women's Foil Individual Semifinals; Men's Epée Individual Semifinals; Women's Foil Individual Bronze Medal Bout; Men's Epée Individual Bronze Medal Bout; Women's Foil Individual Gold Medal Bout; Men's Epée Individual Gold Medal Bout; Women's Foil Individual Victory Ceremony; Men's Epée Individual Victory Ceremony
+10,Fencing,,Makuhari Messe Hall,7/27/20,9:00,16:20,Women's Sabre Individual Table of 64; Men's Foil Individual Table of 64; Women's Sabre Individual Table of 32; Men's Foil Individual Table of 32; Women's Sabre Individual Table of 16; Men's Foil Individual Table of 16; Women's Sabre Individual Quarterfinals; Men's Foil Individual Quarterfinals
+10,Fencing,,Makuhari Messe Hall,7/27/20,18:00,22:20,Women's Sabre Individual Semifinals; Men's Foil Individual Semifinals; Women's Sabre Individual Bronze Medal Bout; Men's Foil Individual Bronze Medal Bout; Women's Sabre Individual Gold Medal Bout; Men's Foil Individual Gold Medal Bout; Women's Sabre Individual Victory Ceremony; Men's Foil Individual Victory Ceremony
+10,Fencing,,Makuhari Messe Hall,7/28/20,10:00,15:50,Women's Epée Team Table of 16; Women's Epée Team Quarterfinals; Women's Epée Team Classification 5-8; Women's Epée Team Semifinals; Women's Epée Team Placement 5-6; Women's Epée Team Placement 7-8
+10,Fencing,,Makuhari Messe Hall,7/28/20,18:30,20:35,Women's Epée Team Bronze Medal Match; Women's Epée Team Gold Medal Match; Women's Epée Team Victory Ceremony
+11,Fencing,,Makuhari Messe Hall,7/29/20,10:00,15:50,Men's Sabre Team Table of 16; Men's Sabre Team Quarterfinals; Men's Sabre Team Classification 5-8; Men's Sabre Team Semifinals; Men's Sabre Team Placement 5-6; Men's Sabre Team Placement 7-8
+11,Fencing,,Makuhari Messe Hall,7/29/20,18:30,20:35,Men's Sabre Team Bronze Medal Match; Men's Sabre Team Gold Medal Match; Men's Sabre Team Victory Ceremony
+11,Fencing,,Makuhari Messe Hall,7/30/20,9:00,16:45,Women's Foil Team Table of 16; Women's Foil Team Quarterfinals; Women's Foil Team Classification 5-8; Women's Foil Team Semifinals; Women's Foil Team Placement 5-6; Women's Foil Team Placement 7-8
+11,Fencing,,Makuhari Messe Hall,7/30/20,18:30,21:25,Women's Foil Team Bronze Medal Match; Women's Foil Team Gold Medal Match; Women's Foil Team Victory Ceremony
+11,Fencing,,Makuhari Messe Hall,7/31/20,10:00,15:50,Men's Epée Team Table of 16; Men's Epée Team Quarterfinals; Men's Epée Team Classification 5-8; Men's Epée Team Semifinals; Men's Epée Team Placement 5-6; Men's Epée Team Placement 7-8
+11,Fencing,,Makuhari Messe Hall,7/31/20,18:30,20:35,Men's Epée Team Bronze Medal Match; Men's Epée Team Gold Medal Match; Men's Epée Team Victory Ceremony
+11,Fencing,,Makuhari Messe Hall,8/1/20,10:00,15:50,Women's Sabre Team Table of 16; Women's Sabre Team Quarterfinals; Women's Sabre Team Classification 5-8; Women's Sabre Team Semifinals; Women's Sabre Team Placement 5-6; Women's Sabre Team Placement 7-8
+11,Fencing,,Makuhari Messe Hall,8/1/20,18:30,20:35,Women's Sabre Team Bronze Medal Match; Women's Sabre Team Gold Medal Match; Women's Sabre Team Victory Ceremony
+11,Fencing,,Makuhari Messe Hall,8/2/20,9:00,16:30,Men's Foil Team Table of 16; Men's Foil Team Quarterfinals; Men's Foil Team Classification 5-8; Men's Foil Team Semifinals; Men's Foil Team Placement 5-6; Men's Foil Team Placement 7-8
+11,Fencing,,Makuhari Messe Hall,8/2/20,18:30,21:15,Men's Foil Team Bronze Medal Match; Men's Foil Team Gold Medal Match; Men's Foil Team Victory Ceremony
+11,Football,,Sapporo Dome,7/22/20,16:30,21:30,Women's First Round (2 matches)
+11,Football,,Miyagi Stadium,7/22/20,17:00,22:00,Women's First Round (2 matches)
+11,Football,,Tokyo Stadium,7/22/20,17:30,22:30,Women's First Round (2 matches)
+11,Football,,Sapporo Dome,7/23/20,16:30,21:30,Men's First Round (2 matches)
+11,Football,,Tokyo Stadium,7/23/20,17:00,22:00,Men's First Round (2 matches)
+11,Football,,Ibaraki Kashima Stadium,7/23/20,17:00,22:00,Men's First Round (2 matches)
+11,Football,,International Stadium Yokohama,7/23/20,17:30,22:30,Men's First Round (2 matches)
+11,Football,,Sapporo Dome,7/25/20,16:30,21:30,Women's First Round (2 matches)
+11,Football,,Miyagi Stadium,7/25/20,17:00,22:00,Women's First Round (2 matches)
+11,Football,,Saitama Stadium,7/25/20,17:30,22:30,Women's First Round (2 matches)
+11,Football,,Sapporo Dome,7/26/20,16:30,21:30,Men's First Round (2 matches)
+11,Football,,Ibaraki Kashima Stadium,7/26/20,17:00,22:00,Men's First Round (2 matches)
+11,Football,,Saitama Stadium,7/26/20,17:00,22:00,Men's First Round (2 matches)
+11,Football,,International Stadium Yokohama,7/26/20,17:30,22:30,Men's First Round (2 matches)
+11,Football,,Miyagi Stadium,7/28/20,17:00,22:00,Women's First Round (2 matches)
+11,Football,,Ibaraki Kashima Stadium,7/28/20,17:00,22:00,Women's First Round (2 matches)
+11,Football,,Saitama Stadium,7/28/20,20:30,22:30,Women's First Round(1 match)
+11,Football,,International Stadium Yokohama,7/28/20,20:30,22:30,Women's First Round(1 match)
+11,Football,,Sapporo Dome,7/29/20,17:00,22:00,Men's First Round (2 matches)
+11,Football,,Miyagi Stadium,7/29/20,17:00,22:00,Men's First Round (2 matches)
+11,Football,,Saitama Stadium,7/29/20,17:30,22:30,Men's First Round (2 matches)
+11,Football,,International Stadium Yokohama,7/29/20,17:30,22:30,Men's First Round (2 matches)
+11,Football,,Miyagi Stadium,7/31/20,17:00,20:00,Women's Quarterfinal
+11,Football,,Ibaraki Kashima Stadium,7/31/20,18:00,21:00,Women's Quarterfinal
+11,Football,,Saitama Stadium,7/31/20,19:00,22:00,Women's Quarterfinal
+11,Football,,International Stadium Yokohama,7/31/20,20:00,23:00,Women's Quarterfinal
+11,Football,,Miyagi Stadium,8/1/20,17:00,20:00,Men's Quarterfinal
+11,Football,,Ibaraki Kashima Stadium,8/1/20,18:00,21:00,Men's Quarterfinal
+11,Football,,Saitama Stadium,8/1/20,19:00,22:00,Men's Quarterfinal
+11,Football,,International Stadium Yokohama,8/1/20,20:00,23:00,Men's Quarterfinal
+11,Football,,Ibaraki Kashima Stadium,8/3/20,17:00,20:00,Women's Semifinal
+11,Football,,International Stadium Yokohama,8/3/20,20:00,23:00,Women's Semifinal
+11,Football,,Ibaraki Kashima Stadium,8/4/20,17:00,20:00,Men's Semifinal
+11,Football,,Saitama Stadium,8/4/20,20:00,23:00,Men's Semifinal
+11,Football,,Ibaraki Kashima Stadium,8/6/20,17:00,20:00,Women's Bronze Medal Match
+11,Football,,Olympic Stadium,8/7/20,11:00,14:00,Women's Gold Medal Match; Women's Victory Ceremony
+11,Football,,Saitama Stadium,8/7/20,20:00,23:00,Men's Bronze Medal Match
+11,Football,,International Stadium Yokohama,8/8/20,20:30,23:30,Men's Gold Medal Match; Men's Victory Ceremony
+11,Golf,,Kasumigaseki Country Club,7/30/20,7:30,15:30,Men's Individual Stroke Play Round 1
+11,Golf,,Kasumigaseki Country Club,7/31/20,7:30,15:30,Men's Individual Stroke Play Round 2
+11,Golf,,Kasumigaseki Country Club,8/1/20,7:30,15:30,Men's Individual Stroke Play Round 3
+11,Golf,,Kasumigaseki Country Club,8/2/20,7:30,16:00,Men's Individual Stroke Play Round 4; Men's Victory Ceremony
+11,Golf,,Kasumigaseki Country Club,8/5/20,7:30,15:30,Women's Individual Stroke Play Round 1
+12,Golf,,Kasumigaseki Country Club,8/6/20,7:30,15:30,Women's Individual Stroke Play Round 2
+12,Golf,,Kasumigaseki Country Club,8/7/20,7:30,15:30,Women's Individual Stroke Play Round 3
+12,Golf,,Kasumigaseki Country Club,8/8/20,7:30,16:00,Women's Individual Stroke Play Round 4; Women's Victory Ceremony
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,7/25/20,10:00,12:30,Men's Qualification
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,7/25/20,14:30,17:00,Men's Qualification
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,7/25/20,19:30,22:00,Men's Qualification
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,7/26/20,9:30,13:05,Women's Qualification
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,7/26/20,15:10,18:45,Women's Qualification
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,7/26/20,20:20,22:00,Women's Qualification
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,7/27/20,19:00,22:00,Men's Team Final; Men's Team Victory Ceremony
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,7/28/20,19:45,22:00,Women's Team Final; Women's Team Victory Ceremony
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,7/29/20,19:15,22:00,Men's Individual All-Around Final; Men's Individual All-Around Victory Ceremony
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,7/30/20,19:50,22:00,Women's Individual All-Around Final; Women's Individual All-Around Victory Ceremony
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,8/2/20,17:00,20:00,Men's Floor Exercise Final; Men's Floor Exercise Victory Ceremony; Women's Vault Final; Women's Vault Victory Ceremony; Men's Pommel Horse Final; Men's Pommel Horse Victory Ceremony; Women's Uneven Bars Final; Women's Uneven Bars Victory Ceremony
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,8/3/20,17:00,19:15,Men's Rings Final; Men's Rings Victory Ceremony; Women's Floor Exercise Final; Women's Floor Exercise Victory Ceremony; Men's Vault Final; Men's Vault Victory Ceremony
+12,Gymnastics,Artistic,Ariake Gymnastics Centre,8/4/20,17:00,19:15,Men's Parallel Bars Final; Men's Parallel Bars Victory Ceremony; Women's Balance Beam Final; Women's Balance Beam Victory Ceremony; Men's Horizontal Bar Final; Men's Horizontal Bar Victory Ceremony
+12,Gymnastics,Rhythmic,Ariake Gymnastics Centre,8/7/20,10:20,13:15,Women's Individual All-Around Qualification
+12,Gymnastics,Rhythmic,Ariake Gymnastics Centre,8/7/20,14:50,17:45,Women's Individual All-Around Qualification
+12,Gymnastics,Rhythmic,Ariake Gymnastics Centre,8/8/20,10:00,12:40,Women's Group All-Around Qualification
+12,Gymnastics,Rhythmic,Ariake Gymnastics Centre,8/8/20,15:20,17:50,Women's Individual All-Around Final; Women's Individual All-Around Victory Ceremony
+12,Gymnastics,Rhythmic,Ariake Gymnastics Centre,8/9/20,11:00,12:45,Women's Group All-Around Final; Women's Group All-Around Victory Ceremony
+12,Gymnastics,Trampoline,Ariake Gymnastics Centre,7/31/20,13:00,15:25,Women's Qualification; Women's Final; Women's Victory Ceremony
+12,Gymnastics,Trampoline,Ariake Gymnastics Centre,8/1/20,13:00,15:25,Men's Qualification; Men's Final; Men's Victory Ceremony
+12,Handball,,Yoyogi National Stadium,7/25/20,9:00,12:30,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/25/20,14:15,17:45,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/25/20,19:30,23:00,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/26/20,9:00,12:30,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/26/20,14:15,17:45,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/26/20,19:30,23:00,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/27/20,9:00,12:30,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/27/20,14:15,17:45,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/27/20,19:30,23:00,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/28/20,9:00,12:30,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/28/20,14:15,17:45,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/28/20,19:30,23:00,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/29/20,9:00,12:30,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/29/20,14:15,17:45,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/29/20,19:30,23:00,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/30/20,9:00,12:30,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/30/20,14:15,17:45,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/30/20,19:30,23:00,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/31/20,9:00,12:30,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/31/20,14:15,17:45,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,7/31/20,19:30,23:00,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,8/1/20,9:00,12:30,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,8/1/20,14:15,17:45,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,8/1/20,19:30,23:00,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,8/2/20,9:00,12:30,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,8/2/20,14:15,17:45,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,8/2/20,19:30,23:00,Men's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,8/3/20,9:00,12:30,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,8/3/20,14:15,17:45,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,8/3/20,19:30,23:00,Women's Preliminaries (2 matches)
+12,Handball,,Yoyogi National Stadium,8/4/20,9:30,11:30,Men's Quarterfinal
+12,Handball,,Yoyogi National Stadium,8/4/20,13:15,15:15,Men's Quarterfinal
+12,Handball,,Yoyogi National Stadium,8/4/20,17:00,19:00,Men's Quarterfinal
+12,Handball,,Yoyogi National Stadium,8/4/20,20:45,22:45,Men's Quarterfinal
+12,Handball,,Yoyogi National Stadium,8/5/20,9:30,11:30,Women's Quarterfinal
+12,Handball,,Yoyogi National Stadium,8/5/20,13:15,15:15,Women's Quarterfinal
+12,Handball,,Yoyogi National Stadium,8/5/20,17:00,19:00,Women's Quarterfinal
+12,Handball,,Yoyogi National Stadium,8/5/20,20:45,22:45,Women's Quarterfinal
+12,Handball,,Yoyogi National Stadium,8/6/20,17:00,19:00,Men's Semifinal
+12,Handball,,Yoyogi National Stadium,8/6/20,21:00,23:00,Men's Semifinal
+13,Handball,,Yoyogi National Stadium,8/7/20,17:00,19:00,Women's Semifinal
+13,Handball,,Yoyogi National Stadium,8/7/20,21:00,23:00,Women's Semifinal
+13,Handball,,Yoyogi National Stadium,8/8/20,17:00,19:00,Men's Bronze Medal Match
+13,Handball,,Yoyogi National Stadium,8/8/20,21:00,23:30,Men's Gold Medal Match; Men's Victory Ceremony
+13,Handball,,Yoyogi National Stadium,8/9/20,11:00,13:00,Women's Bronze Medal Match
+13,Handball,,Yoyogi National Stadium,8/9/20,15:00,17:30,Women's Gold Medal Match; Women's Victory Ceremony
+13,Hockey,,Oi Hockey Stadium,7/25/20,9:30,13:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/25/20,10:00,13:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/25/20,18:30,22:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/25/20,19:00,22:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/26/20,9:30,13:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/26/20,10:00,13:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/26/20,18:30,22:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/26/20,19:00,22:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/27/20,9:30,13:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/27/20,10:00,13:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/27/20,18:30,22:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/27/20,19:00,22:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/28/20,9:30,13:15,Men's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/28/20,10:00,13:45,Men's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/28/20,18:30,22:15,Men's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/29/20,9:30,13:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/29/20,10:00,13:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/29/20,18:30,22:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/29/20,19:00,22:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/30/20,9:30,13:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/30/20,10:00,13:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/30/20,18:30,22:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/30/20,19:00,22:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/31/20,9:30,13:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/31/20,10:00,13:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/31/20,18:30,22:15,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,7/31/20,19:00,22:45,Men's or Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,8/1/20,9:30,13:15,Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,8/1/20,10:00,13:45,Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,8/1/20,18:30,22:15,Women's Preliminaries (2 matches)
+13,Hockey,,Oi Hockey Stadium,8/2/20,9:30,13:45,Men's Quarterfinals (2 matches)
+13,Hockey,,Oi Hockey Stadium,8/2/20,18:30,22:45,Men's Quarterfinals (2 matches)
+13,Hockey,,Oi Hockey Stadium,8/3/20,9:30,13:45,Women's Quarterfinals (2 matches)
+13,Hockey,,Oi Hockey Stadium,8/3/20,18:30,22:45,Women's Quarterfinals (2 matches)
+13,Hockey,,Oi Hockey Stadium,8/4/20,10:30,12:15,Men's Semifinal
+13,Hockey,,Oi Hockey Stadium,8/4/20,19:00,20:45,Men's Semifinal
+13,Hockey,,Oi Hockey Stadium,8/5/20,10:30,12:15,Women's Semifinal
+13,Hockey,,Oi Hockey Stadium,8/5/20,19:00,20:45,Women's Semifinal
+13,Hockey,,Oi Hockey Stadium,8/6/20,10:30,12:15,Men's Bronze Medal Match
+13,Hockey,,Oi Hockey Stadium,8/6/20,19:00,21:30,Men's Gold Medal Match; Men's Victory Ceremony
+13,Hockey,,Oi Hockey Stadium,8/7/20,10:30,12:15,Women's Bronze Medal Match
+13,Hockey,,Oi Hockey Stadium,8/7/20,19:00,21:30,Women's Gold Medal Match; Women's Victory Ceremony
+13,Judo,,Nippon Budokan,7/25/20,10:30,14:30,Women -48 kg Elimination Rounds; Women -48 kg Quarterfinals; Men -60 kg Elimination Rounds; Men -60 kg Quarterfinals
+13,Judo,,Nippon Budokan,7/25/20,17:00,19:40,Women -48 kg Repechage; Women -48 kg Semifinals; Men -60 kg Repechage; Men -60 kg Semifinals; Women -48 kg Contests for Bronze Medal; Women -48 kg Final; Men -60 kg Contests for Bronze Medal; Men -60 kg Final; Women -48 kg Victory Ceremony; Men -60 kg Victory Ceremony
+13,Judo,,Nippon Budokan,7/26/20,10:30,14:30,Women -52 kg Elimination Rounds; Women -52 kg Quarterfinals; Men -66 kg Elimination Rounds; Men -66 kg Quarterfinals
+13,Judo,,Nippon Budokan,7/26/20,17:00,19:40,Women -52 kg Repechage; Women -52 kg Semifinals; Men -66 kg Repechage; Men -66 kg Semifinals; Women -52 kg Contests for Bronze Medal; Women -52 kg Final; Men -66 kg Contests for Bronze Medal; Men -66 kg Final; Women -52 kg Victory Ceremony; Men -66 kg Victory Ceremony
+13,Judo,,Nippon Budokan,7/27/20,10:30,14:30,Women -57kg Elimination Rounds; Women -57 kg Quarterfinals; Men -73 kg Elimination Rounds; Men -73 kg Quarterfinals
+14,Judo,,Nippon Budokan,7/27/20,17:00,19:40,Women -57 kg Repechage; Women -57 kg Semifinals; Men -73 kg Repechage; Men -73 kg Semifinals; Women -57 kg Contests for Bronze Medal; Women -57 kg Final; Men -73 kg Contests for Bronze Medal; Men -73 kg Final; Women -57 kg Victory Ceremony; Men -73 kg Victory Ceremony
+14,Judo,,Nippon Budokan,7/28/20,10:30,14:30,Women -63kg Elimination Rounds; Women -63 kg Quarterfinals; Men -81 kg Elimination Rounds; Men -81 kg Quarterfinals
+14,Judo,,Nippon Budokan,7/28/20,17:00,19:40,Women -63 kg Repechage; Women -63 kg Semifinals; Men -81 kg Repechage; Men -81 kg Semifinals; Women -63 kg Contests for Bronze Medal; Women -63 kg Final; Men -81 kg Contests for Bronze Medal; Men -81 kg Final; Women -63 kg Victory Ceremony; Men -81 kg Victory Ceremony
+14,Judo,,Nippon Budokan,7/29/20,10:30,14:30,Women -70kg Elimination Rounds; Women -70 kg Quarterfinals; Men -90 kg Elimination Rounds; Men -90 kg Quarterfinals
+14,Judo,,Nippon Budokan,7/29/20,17:00,19:40,Women -70 kg Repechage; Women -70 kg Semifinals; Men -90 kg Repechage; Men -90 kg Semifinals; Women -70 kg Contests for Bronze Medal; Women -70 kg Final; Men -90 kg Contests for Bronze Medal; Men -90 kg Final; Women -70 kg Victory Ceremony; Men -90 kg Victory Ceremony
+14,Judo,,Nippon Budokan,7/30/20,10:30,14:30,Women -78 kg Elimination Rounds; Women -78 kg Quarterfinals; Men -100kg Elimination Rounds; Men -100 kg Quarterfinals
+14,Judo,,Nippon Budokan,7/30/20,17:00,19:40,Women -78 kg Repechage; Women -78 kg Semifinals; Men -100 kg Repechage; Men -100 kg Semifinals; Women -78 kg Contests for Bronze Medal; Women -78 kg Final; Men -100 kg Contests for Bronze Medal; Men -100 kg Final; Women -78 kg Victory Ceremony; Men -100 kg Victory Ceremony
+14,Judo,,Nippon Budokan,7/31/20,10:30,14:30,Women +78 kg Elimination Rounds; Women +78 kg Quarterfinals; Men +100kg Elimination Rounds; Men +100 kg Quarterfinals
+14,Judo,,Nippon Budokan,7/31/20,17:00,19:40,Women +78 kg Repechage; Women +78 kg Semifinals; Men +100 kg Repechage; Men +100 kg Semifinals; Women +78 kg Contests for Bronze Medal; Women +78 kg Final; Men +100 kg Contests for Bronze Medal; Men +100 kg Final; Women +78 kg Victory Ceremony; Men +100 kg Victory Ceremony
+14,Judo,,Nippon Budokan,8/1/20,10:30,14:30,Mixed Team Elimination rounds; Mixed Team Quarterfinals; Mixed Team Repechage; Mixed Team Semifinals
+14,Judo,,Nippon Budokan,8/1/20,17:00,19:30,Mixed Team Contests for Bronze Medal; Mixed Team Final; Mixed Team Victory Ceremony
+14,Karate,,Nippon Budokan,8/6/20,10:00,14:35,Women's Kata Elimination Round; Women's Kata Ranking Round; Men's Kumite -67 kg Elimination Round
+14,Karate,,Nippon Budokan,8/6/20,17:00,21:30,Women's Kumite -55 kg Elimination Round; Women's Kata Bronze Medal Bouts; Women's Kata Final Bout; Women's Kata Victory Ceremony; Men's Kumite -67 kg Semifinals; Women's Kumite -55 kg Semifinals; Men's Kumite -67 kg Final Bout; Women's Kumite -55 kg Final Bout; Men's Kumite -67 kg Victory Ceremony; Women's Kumite -55 kg Victory Ceremony
+14,Karate,,Nippon Budokan,8/7/20,10:00,14:35,Men's Kata Elimination Round; Men's Kata Ranking Round; Women's Kumite -61 kg Elimination Round
+15,Karate,,Nippon Budokan,8/7/20,17:00,21:30,Men's Kumite -75 kg Elimination Round; Men's Kata Bronze Medal Bouts; Men's Kata Final Bout; Men's Kata Victory Ceremony; Women's Kumite -61 kg Semifinals; Men's Kumite -75 kg Semifinals; Women's Kumite -61 kg Final Bout; Men's Kumite -75 kg Final Bout; Women's Kumite -61 kg Victory Ceremony; Men's Kumite -75 kg Victory Ceremony
+15,Karate,,Nippon Budokan,8/8/20,14:00,20:15,Women's Kumite +61 kg Elimination Round; Men's Kumite +75 kg Elimination Round; Women's Kumite +61 kg Semifinals; Men's Kumite +75 kg Semifinals; Women's Kumite +61 kg Final Bout; Men's Kumite +75 kg Final Bout; Women's Kumite +61 kg Victory Ceremony; Men's Kumite +75 kg Victory Ceremony
+15,Modern Pentathlon,,Musashino Forest Sport Plaza,8/6/20,13:00,19:30,Women's Fencing Ranking Round; Men's Fencing Ranking Round
+15,Modern Pentathlon,,Tokyo Stadium,8/7/20,14:30,20:30,Women's Swimming; Women's Fencing Bonus Round; Women's Riding Show Jumping; Women's Laser-Run; Women's Victory Ceremony
+15,Modern Pentathlon,,Tokyo Stadium,8/8/20,14:30,20:30,Men's Swimming; Men's Fencing Bonus Round; Men's Riding Show Jumping; Men's Laser-Run; Men's Victory Ceremony
+15,Rowing,,Sea Forest Waterway,7/24/20,8:30,12:10,Men's Single Sculls Heats; Women's Single Sculls Heats; Men's Double Sculls Heats; Women's Double Sculls Heats; Men's Quadruple Sculls Heats; Women's Quadruple Sculls Heats
+15,Rowing,,Sea Forest Waterway,7/25/20,8:30,12:30,Women's Single Sculls Repechages; Men's Single Sculls Repechages; Women's Double Sculls Repechage; Men's Double Sculls Repechage; Women's Pair Heats; Men's Pair Heats; Women's Lightweight Double Sculls Heats; Men's Lightweight Double Sculls Heats; Women's Four Heats; Men's Four Heats
+15,Rowing,,Sea Forest Waterway,7/26/20,8:30,11:10,Men's Single Sculls Semifinals E/F; Women's Single Sculls Semifinals E/F; Men's Pair Repechage; Women's Pair Repechage; Men's Lightweight Double Sculls Repechages; Women's Lightweight Double Sculls Repechages; Men's Quadruple Sculls Repechage; Women's Quadruple Sculls Repechage; Men's Eight Heats; Women's Eight Heats
+15,Rowing,,Sea Forest Waterway,7/27/20,8:30,10:50,Women's Single Sculls Quarterfinals; Men's Single Sculls Quarterfinals; Women's Double Sculls Semifinals; Men's Double Sculls Semifinals; Women's Four Repechage; Men's Four Repechage
+15,Rowing,,Sea Forest Waterway,7/28/20,8:30,11:55,Men's Single Sculls Semifinals C/D; Women's Single Sculls Semifinals C/D; Men's Lightweight Double Sculls Final C; Women's Lightweight Double Sculls Final C; Men's Quadruple Sculls Final B; Women's Quadruple Sculls Final B; Men's Quadruple Sculls Final A; Women's Quadruple Sculls Final A; Men's Quadruple Sculls Victory Ceremony; Women's Quadruple Sculls Victory Ceremony; Men's Pair Semifinals A/B; Women's Pair Semifinals A/B; Men's Lightweight Double Sculls Semifinals A/B; Women's Lightweight Double Sculls Semifinals A/B; 
+16,Rowing,,Sea Forest Waterway,7/29/20,8:30,11:55,Women's Double Sculls Final B; Men's Double Sculls Final B; Women's Four Final B; Men's Four Final B; Women's Double Sculls Final A; Men's Double Sculls Final A; Women's Double Sculls Victory Ceremony; Women's Four Final A; Men's Double Sculls Victory Ceremony; Men's Four Finals A; Women's Four Victory Ceremony; Men's Four Victory Ceremony; Women's Eight Repechage; Men's Eight Repechage; Women's Single Sculls Semifinals A/B; Men's Single Sculls Semifinals A/B
+16,Rowing,,Sea Forest Waterway,7/30/20,8:30,11:55,Men's Pairs Final B; Women's Pairs Final B; Men's Lightweight Double Sculls Final B; Women's Lightweight Double Sculls Final B; Men's Pair Final A; Women's Pair Final A; Men's Pair Victory Ceremony; Men's Lightweight Double Sculls Final A; Women's Pair Victory Ceremony; Women's Lightweight Double Sculls Final A; Men's Lightweight Double Sculls Victory Ceremony; Women's Lightweight Double Sculls Victory Ceremony; Men's Single Sculls Final F; Women's Single Sculls Final F; Men's Single Sculls Final E; Women's Single Sculls Final E; Women's Single Sculls Final D; Men's Single Sculls Final D
+16,Rowing,,Sea Forest Waterway,7/31/20,9:00,11:10,Women's Single Sculls Final C; Men's Single Sculls Final C; Women's Single Sculls Final B; Men's Single Sculls Final B; Women's Single Sculls Final A; Men's Single Sculls Final A; Women's Single Sculls Victory Ceremony; Women's Eight Final A; Men's Single Sculls Victory Ceremony; Men's Eight Final A; Women's Eight Victory Ceremony; Men's Eight Victory Ceremony
+16,Rugby,,Tokyo Stadium,7/27/20,9:00,12:00,Men's Pool Round (6 matches)
+16,Rugby,,Tokyo Stadium,7/27/20,16:30,19:30,Men's Pool Round (6 matches)
+16,Rugby,,Tokyo Stadium,7/28/20,9:00,12:00,Men's Pool Round (6 matches)
+16,Rugby,,Tokyo Stadium,7/28/20,16:30,19:30,Men's Placing 9-12 (2 matches); Men's Quarter-finals (4 matches)
+16,Rugby,,Tokyo Stadium,7/29/20,9:00,12:00,Men's Placing 11-12; Men's Placing 9-10; Men's Placing 5-8 (2 matches); Men's Semi-finals (2 matches)
+16,Rugby,,Tokyo Stadium,7/29/20,16:30,19:00,Men's Placing 7-8; Men's Placing 5-6; Men's Bronze Medal Match; Men's Gold Medal Match; Men's Victory Ceremony
+16,Rugby,,Tokyo Stadium,7/30/20,9:00,12:00,Women's Pool Round (6 matches)
+16,Rugby,,Tokyo Stadium,7/30/20,16:30,19:30,Women's Pool Round (6 matches)
+16,Rugby,,Tokyo Stadium,7/31/20,9:00,12:00,Women's Pool Round (6 matches)
+16,Rugby,,Tokyo Stadium,7/31/20,16:30,19:30,Women's Placing 9-12 (2 matches); Women's Quarter-finals (4 matches)
+16,Rugby,,Tokyo Stadium,8/1/20,9:00,12:00,Women's Placing 11-12; Women's Placing 9-10; Women's Placing 5-8 (2 matches); Women's Semi-finals (2 matches)
+16,Rugby,,Tokyo Stadium,8/1/20,16:30,19:00,Women's Placing 7-8; Women's Placing 5-6; Women's Bronze Medal Match; Women's Gold Medal Match; Women's Victory Ceremony
+16,Sailing,,Enoshima Yacht Harbour,7/26/20,12:00,18:00,RS:X Men; RS:X Women; Laser Men; Laser Radial Women
+16,Sailing,,Enoshima Yacht Harbour,7/27/20,12:00,18:00,RS:X Men; RS:X Women; Laser Men; Laser Radial Women
+16,Sailing,,Enoshima Yacht Harbour,7/28/20,12:00,18:00,Laser Men; Laser Radial Women; Finn Men; 49er Men; 49er FX Women
+17,Sailing,,Enoshima Yacht Harbour,7/29/20,12:00,18:00,RS:X Men; RS:X Women; Finn Men; 470 Men; 470 Women; 49er Men; 49er FX Women; Foiling Nacra 17 Mixed
+17,Sailing,,Enoshima Yacht Harbour,7/30/20,12:00,18:00,RS:X Men; RS:X Women; Laser Men; Laser Radial Women; Finn Men; 470 Men; 470 Women; Foiling Nacra 17 Mixed
+17,Sailing,,Enoshima Yacht Harbour,7/31/20,12:00,18:00,Laser Men; Laser Radial Women; 470 Men; 470 Women; 49er Men; 49er FX Women
+17,Sailing,,Enoshima Yacht Harbour,8/1/20,12:00,18:00,Finn Men; 49er Men; 49er FX Women; Foiling Nacra 17 Mixed; RS:X Women - Medal Race; RS:X Men - Medal Race; RS:X Women - Victory Ceremony; RS:X Men - Victory Ceremony
+17,Sailing,,Enoshima Yacht Harbour,8/2/20,12:00,18:00,Finn Men; 470 Men; 470 Women; Foiling Nacra 17 Mixed; Laser Men - Medal Race; Laser Radial Women - Medal Race; Laser Men - Victory Ceremony; Laser Radial Women - Victory Ceremony
+17,Sailing,,Enoshima Yacht Harbour,8/3/20,12:00,18:00,470 Men; 470 Women; 49er FX Women - Medal Race; 49er Men - Medal Race; 49er FX Women - Victory Ceremony; 49er Men - Victory Ceremony
+17,Sailing,,Enoshima Yacht Harbour,8/4/20,14:30,16:50,Finn Men - Medal Race; Foiling Nacra 17 Mixed - Medal Race; Finn Men - Victory Ceremony; Foiling Nacra 17 Mixed - Victory Ceremony
+17,Sailing,,Enoshima Yacht Harbour,8/5/20,14:30,16:50,470 Men - Medal Race; 470 Women - Medal Race; 470 Men - Victory Ceremony; 470 Women - Victory Ceremony
+17,Shooting,Rifle & Pistol,Asaka Shooting Range,7/25/20,8:30,16:30,10m Air Rifle Women's Qualification; 10m Air Rifle Women's Finals; 10m Air Rifle Women's Victory Ceremony; 10m Air Pistol Men's Qualification; 10m Air Pistol Men's Finals; 10m Air Pistol Men's Victory Ceremony
+17,Shooting,Rifle & Pistol,Asaka Shooting Range,7/26/20,9:00,16:30,10m Air Pistol Women's Qualification; 10m Air Pistol Women's Finals; 10m Air Pistol Women's Victory Ceremony; 10m Air Rifle Men's Qualification; 10m Air Rifle Men's Finals; 10m Air Rifle Men's Victory Ceremony
+17,Shooting,Rifle & Pistol,Asaka Shooting Range,7/28/20,9:00,16:30,10m Air Pistol Mix Qualification; 10m Air Pistol Mix Finals; 10m Air Pistol Mix Victory Ceremony; 10m Air Rifle Mix Qualification; 10m Air Rifle Mix Finals; 10m Air Rifle Mix Victory Ceremony
+17,Shooting,Rifle & Pistol,Asaka Shooting Range,7/30/20,9:00,12:45,25m Pistol Women's Precision Stage
+17,Shooting,Rifle & Pistol,Asaka Shooting Range,7/31/20,9:00,15:00,25m Pistol Women's Qualification; 25m Pistol Women's Finals; 25m Pistol Women's Victory Ceremony
+17,Shooting,Rifle & Pistol,Asaka Shooting Range,8/1/20,12:00,17:10,50m Rifle 3 Positions Women's Qualification; 50m Rifle 3 Positions Women's Finals; 50m Rifle 3 Positions Women's Victory Ceremony
+17,Shooting,Rifle & Pistol,Asaka Shooting Range,8/2/20,8:30,13:15,25m Rapid Fire Pistol Men's Qualification - Stage 1
+17,Shooting,Rifle & Pistol,Asaka Shooting Range,8/3/20,8:30,18:00,25m Rapid Fire Pistol Men's Qualification - Stage 2; 50m Rifle 3 Positions Men's Qualification; 25m Rapid Fire Pistol Men's Finals; 25m Rapid Fire Pistol Men's Victory Ceremony; 50m Rifle 3 Positions Men's Finals; 50m Rifle 3 Positions Men's Victory Ceremony
+17,Shooting,Shotgun,Asaka Shooting Range,7/26/20,9:00,16:00,Skeet Women's Qualification - Day 1; Skeet Men's Qualification - Day 1
+18,Shooting,Shotgun,Asaka Shooting Range,7/27/20,9:00,17:00,Skeet Women's Qualification - Day 2; Skeet Men's Qualification - Day 2; Skeet Women's Finals; Skeet Women's Victory Ceremony; Skeet Men's Finals; Skeet Men's Victory Ceremony
+18,Shooting,Shotgun,Asaka Shooting Range,7/29/20,9:00,16:00,Trap Women's Qualification - Day 1; Trap Men's Qualification - Day 1
+18,Shooting,Shotgun,Asaka Shooting Range,7/30/20,9:00,17:00,Trap Women's Qualification - Day 2; Trap Men's Qualification - Day 2; Trap Women's Finals; Trap Women's Victory CeremonyTrap Men's Finals; Trap Men's Victory Ceremony
+18,Shooting,Shotgun,Asaka Shooting Range,8/1/20,9:00,14:45,Trap Mix Qualification; Trap Mix Finals; Trap Mix Victory Ceremony
+18,Skateboarding,Park,Ariake Urban Sports Park,8/5/20,9:00,13:45,Women's Park Qualification Heats; Women's Park Final; Women's Park Victory Ceremony
+18,Skateboarding,Park,Ariake Urban Sports Park,8/6/20,9:00,13:45,Men's Park Qualification Heats; Men's Park Final; Men's Park Victory Ceremony
+18,Skateboarding,Street,Ariake Urban Sports Park,7/26/20,9:00,13:55,Men's Street Qualification Heats; Men's Street Final; Men's Street Victory Ceremony
+18,Skateboarding,Street,Ariake Urban Sports Park,7/27/20,9:00,13:55,Women's Street Qualification Heats; Women's Street Final; Women's Street Victory Ceremony
+18,Sport Climbing,,Aomi Urban Sports Park,8/4/20,17:00,22:40,Men's Combined Qualification - Speed; Men's Combined Qualification - Bouldering; Men's Combined Qualification - Lead
+18,Sport Climbing,,Aomi Urban Sports Park,8/5/20,17:00,22:40,Women's Combined Qualification - Speed; Women's Combined Qualification - Bouldering; Women's Combined Qualification - Lead
+18,Sport Climbing,,Aomi Urban Sports Park,8/6/20,17:30,22:20,Men's Combined Final - Speed; Men's Combined Final - Bouldering; Men's Combined Final - Lead; Men's Combined Victory Ceremony
+18,Sport Climbing,,Aomi Urban Sports Park,8/7/20,17:30,22:20,Women's Combined Final - Speed; Women's Combined Final - Bouldering; Women's Combined Final - Lead; Women's Combined Victory Ceremony
+18,Surfing,,Tsurigasaki Surfing Beach,7/26/20,7:00,16:20,Men's Round 1; Women's Round 1; Men's Round 2; Women's Round 2*The competition schedule is subjected to change depending on thewave conditions. Competitions will be held with 4 days schedule duringthe Olympic Surfing Festival (name tbc).
+18,Surfing,,Tsurigasaki Surfing Beach,7/27/20,7:00,17:40,Women's Round 3; Men's Round 3*The competition schedule is subjected to change depending on thewave conditions. Competitions will be held with 4 days schedule duringthe Olympic Surfing Festival (name tbc).
+18,Surfing,,Tsurigasaki Surfing Beach,7/28/20,7:00,15:00,Men's Quarterfinals; Women's Quarterfinals; Men's Semifinals; Women's Semifinals*The competition schedule is subjected to change depending on thewave conditions. Competitions will be held with 4 days schedule duringthe Olympic Surfing Festival (name tbc).
+18,Surfing,,Tsurigasaki Surfing Beach,7/29/20,8:00,13:00,Women's Bronze medal match; Men's Bronze medal match; Women's Finals; Men's Finals; Women's Victory Ceremony; Men's Victory Ceremony*The competition schedule is subjected to change depending on thewave conditions. Competitions will be held with 4 days schedule duringthe Olympic Surfing Festival (name tbc).
+18,Surfing,,Tsurigasaki Surfing Beach,7/30/20,7:00,18:30,"Competition TBD*The competition schedule is subjected to change depending on thewave conditions. Competitions will be held with 4 days schedule duringthe Olympic Surfing Festival (name tbc).*The festival is scheduled to be held between 7:00 and 18:30. Whenpostponed competitions are held on that day, they will be held withinthe festival hours."
+18,Surfing,,Tsurigasaki Surfing Beach,7/31/20,7:00,18:30,"Competition TBD*The competition schedule is subjected to change depending on thewave conditions. Competitions will be held with 4 days schedule duringthe Olympic Surfing Festival (name tbc).*The festival is scheduled to be held between 7:00 and 18:30. Whenpostponed competitions are held on that day, they will be held withinthe festival hours."
+19,Surfing,,Tsurigasaki Surfing Beach,8/1/20,7:00,18:30,"Competition TBD*The competition schedule is subjected to change depending on thewave conditions. Competitions will be held with 4 days schedule duringthe Olympic Surfing Festival (name tbc).*The festival is scheduled to be held between 7:00 and 18:30. Whenpostponed competitions are held on that day, they will be held withinthe festival hours."
+19,Surfing,,Tsurigasaki Surfing Beach,8/2/20,7:00,18:30,"Competition TBD*The competition schedule is subjected to change depending on thewave conditions. Competitions will be held with 4 days schedule duringthe Olympic Surfing Festival (name tbc).*The festival is scheduled to be held between 7:00 and 18:30. Whenpostponed competitions are held on that day, they will be held withinthe festival hours."
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/25/20,9:00,12:45,Men's Singles Preliminary Round; Women's Singles Preliminary Round; Mixed Doubles Round of 16
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/25/20,14:15,17:15,Men's Singles Round 1; Women's Singles Round 1
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/25/20,19:30,22:30,Men's Singles Round 1; Women's Singles Round 1
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/26/20,10:00,12:00,Mixed Doubles Quarterfinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/26/20,14:00,17:45,Men's Singles Round 2; Women's Singles Round 2
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/26/20,20:00,22:00,Mixed Doubles Semifinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/27/20,10:00,13:00,Men's Singles Round 2; Women's Singles Round 2
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/27/20,14:30,17:30,Men's Singles Round 3; Women's Singles Round 3
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/27/20,20:00,22:10,Mixed Doubles Bronze Medal Match; Mixed Doubles Gold Medal Match; Mixed Doubles Victory Ceremony
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/28/20,10:00,13:00,Men's Singles Round 3; Women's Singles Round 3
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/28/20,14:30,17:30,Men's Singles Round 3; Women's Singles Round 3; Men's Singles Round of 16; Women's Singles Round of 16
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/28/20,19:30,22:30,Men's Singles Round of 16; Women's Singles Round of 16
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/29/20,10:00,13:00,Women's Singles Quarterfinals; Men's Singles Quarterfinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/29/20,15:00,18:00,Women's Singles Quarterfinals; Men's Singles Quarterfinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/29/20,20:00,22:00,Men's Singles Quarterfinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/30/20,11:00,13:00,Women's Singles Semifinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/30/20,15:00,17:00,Men's Singles Semifinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/30/20,20:00,22:10,Women's Singles Bronze Medal Match; Women's Singles Gold Medal Match; Women's Singles Victory Ceremony
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,7/31/20,20:00,22:10,Men's Singles Bronze Medal Match; Men's Singles Gold Medal Match; Men's Singles Victory Ceremony
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/2/20,10:00,13:00,Men's Team Round of 16; Women's Team Round of 16
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/2/20,14:30,17:30,Men's Team Round of 16; Women's Team Round of 16
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/2/20,19:30,22:30,Men's Team Round of 16; Women's Team Round of 16
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/3/20,10:00,13:00,Men's Team Round of 16; Women's Team Round of 16
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/3/20,14:30,17:30,Men's Team Quarterfinals; Women's Team Quarterfinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/3/20,19:30,22:30,Men's Team Quarterfinals; Women's Team Quarterfinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/4/20,10:00,13:00,Men's Team Quarterfinals; Women's Team Quarterfinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/4/20,14:30,17:30,Men's Team Quarterfinals; Women's Team Quarterfinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/4/20,19:30,22:30,Women's Team Semifinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/5/20,10:00,13:00,Women's Team Semifinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/5/20,14:30,17:30,Men's Team Semifinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/5/20,19:30,22:30,Men's Team Semifinals
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/6/20,11:00,14:00,Women's Team Bronze Medal Team Match
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/6/20,19:30,22:40,Women's Team Gold Medal Team Match; Women's Team Victory Ceremony
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/7/20,11:00,14:00,Men's Team Bronze Medal Team Match
+19,Table Tennis,,Tokyo Metropolitan Gymnasium,8/7/20,19:30,22:40,Men's Team Gold Medal Team Match; Men's Team Victory Ceremony
+19,Taekwondo,,Makuhari Messe Hall,7/25/20,10:00,17:00,Women -49 kg Round of 16 (8 matches); Men -58 kg Round of 16 (8 matches); Women -49 kg Quarterfinals (4 matches); Men -58 kg Quarterfinals (4 matches); Women -49 kg Semifinals (2 matches); Men -58 kg Semifinals (2 matches)
+,,,,,,,
+20,Taekwondo,,Makuhari Messe Hall,7/25/20,19:00,22:40,Women -49 kg Repechages (2 matches); Men -58 kg Repechages (2 matches); Women -49 kg Bronze Medal Contests (2 matches); Men -58 kg Bronze Medal Contests (2 matches); Women -49 kg Gold Medal Contest; Men -58 kg Gold Medal Contest; Women -49 kg Victory Ceremony; Men -58 kg Victory Ceremony
+20,Taekwondo,,Makuhari Messe Hall,7/26/20,10:00,17:00,Women -57 kg Round of 16 (8 matches); Men -68 kg Round of 16 (8 matches); Women -57 kg Quarterfinals (4 matches); Men -68 kg Quarterfinals (4 matches); Women -57 kg Semifinals (2 matches); Men -68 kg Semifinals (2 matches)
+20,Taekwondo,,Makuhari Messe Hall,7/26/20,19:00,22:40,Women -57 kg Repechages (2 matches); Men -68 kg Repechages (2 matches); Women -57 kg Bronze Medal Contests (2 matches); Men -68 kg Bronze Medal Contests (2 matches); Women -57 kg Gold Medal Contest; Men -68 kg Gold Medal Contest; Women -57 kg Victory Ceremony; Men -68 kg Victory Ceremony
+20,Taekwondo,,Makuhari Messe Hall,7/27/20,10:00,17:00,Women -67 kg Round of 16 (8 matches); Men -80 kg Round of 16 (8 matches); Women -67 kg Quarterfinals (4 matches); Men -80 kg Quarterfinals (4 matches); Women -67 kg Semifinals (2 matches); Men -80 kg Semifinals (2 matches)
+20,Taekwondo,,Makuhari Messe Hall,7/27/20,19:00,22:40,Women -67 kg Repechages (2 matches); Men -80 kg Repechages (2 matches); Women -67 kg Bronze Medal Contests (2 matches); Men -80 kg Bronze Medal Contests (2 matches); Women -67 kg Gold Medal Contest; Men -80 kg Gold Medal Contest; Women -67 kg Victory Ceremony; Men -80 kg Victory Ceremony
+20,Taekwondo,,Makuhari Messe Hall,7/28/20,10:00,17:00,Women +67 kg Round of 16 (8 matches); Men +80 kg Round of 16 (8 matches); Women +67 kg Quarterfinals (4 matches); Men +80 kg Quarterfinals (4 matches); Women +67 kg Semifinals (2 matches); Men +80 kg Semifinals (2 matches)
+20,Taekwondo,,Makuhari Messe Hall,7/28/20,19:00,22:40,Women +67 kg Repechages (2 matches); Men +80 kg Repechages (2 matches); Women +67 kg Bronze Medal Contests (2 matches); Men +80 kg Bronze Medal Contests (2 matches); Women +67 kg Gold Medal Contest; Men +80 kg Gold Medal Contest; Women +67 kg Victory Ceremony; Men +80 kg Victory Ceremony
+20,Tennis,,Ariake Tennis Park,7/25/20,11:00,20:00,Men's Singles First Round; Women's Singles First Round; Men's Doubles First Round; Women's Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+20,Tennis,,Ariake Tennis Park,7/25/20,11:00,20:00,Men's Singles First Round; Women's Singles First Round; Men's Doubles First Round; Women's Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+20,Tennis,,Ariake Tennis Park,7/25/20,11:00,20:00,Men's Singles First Round; Women's Singles First Round; Men's Doubles First Round; Women's Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+20,Tennis,,Ariake Tennis Park,7/25/20,11:00,20:00,Men's Singles First Round; Women's Singles First Round; Men's Doubles First Round; Women's Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+20,Tennis,,Ariake Tennis Park,7/26/20,11:00,20:00,Men's Singles First Round; Women's Singles First Round; Men's Doubles First Round; Women's Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/26/20,11:00,20:00,Men's Singles First Round; Women's Singles First Round; Men's Doubles First Round; Women's Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/26/20,11:00,20:00,Men's Singles First Round; Women's Singles First Round; Men's Doubles First Round; Women's Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/26/20,11:00,20:00,Men's Singles First Round; Women's Singles First Round; Men's Doubles First Round; Women's Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/27/20,11:00,20:00,Men's Singles Second Round; Women's Singles Second Round; Men's Doubles Second Round; Women's Doubles Second Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/27/20,11:00,20:00,Men's Singles Second Round; Women's Singles Second Round; Men's Doubles Second Round; Women's Doubles Second Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/27/20,11:00,20:00,Men's Singles Second Round; Women's Singles Second Round; Men's Doubles Second Round; Women's Doubles Second Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/27/20,11:00,20:00,Men's Singles Second Round; Women's Singles Second Round; Men's Doubles Second Round; Women's Doubles Second Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/28/20,11:00,20:00,Men's Singles Second Round; Women's Singles Third Round; Men's Doubles Quarterfinals; Women's Doubles Second Round/Quarterfinals*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/28/20,11:00,20:00,Men's Singles Second Round; Women's Singles Third Round; Men's Doubles Quarterfinals; Women's Doubles Second Round/Quarterfinals*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/28/20,11:00,20:00,Men's Singles Second Round; Women's Singles Third Round; Men's Doubles Quarterfinals; Women's Doubles Second Round/Quarterfinals*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/28/20,11:00,20:00,Men's Singles Second Round; Women's Singles Third Round; Men's Doubles Quarterfinals; Women's Doubles Second Round/Quarterfinals*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+21,Tennis,,Ariake Tennis Park,7/29/20,11:00,20:00,Men's Singles Third Round; Women's Singles Quarterfinals; Men's Doubles Semifinals; Women's Doubles Quarterfinals; Mixed Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,7/29/20,11:00,20:00,Men's Singles Third Round; Women's Singles Quarterfinals; Men's Doubles Semifinals; Women's Doubles QuarterfinalsMixed Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,7/29/20,11:00,20:00,Men's Singles Third Round; Women's Singles Quarterfinals; Women's Doubles Quarterfinals; Mixed Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,7/29/20,11:00,20:00,Men's Singles Third Round; Mixed Doubles First Round*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,7/30/20,11:00,20:00,Men's Singles Quarterfinals; Women's Singles Semifinals; Women's Doubles Semifinals; Mixed Doubles Quarterfinals*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,7/30/20,11:00,20:00,Men's Singles Quarterfinals; Women's Doubles Semifinals; Mixed Doubles Quarterfinals*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,7/30/20,11:00,20:00,Mixed Doubles Quarterfinals*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,7/31/20,12:00,20:00,Men's Singles Semifinals; Men's Doubles Gold Medal Match; Men's Doubles Victory Ceremony*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,7/31/20,12:00,20:00,Men's Doubles Bronze Medal Match; Mixed Doubles Semifinals*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,8/1/20,12:00,20:00,Men's Singles Bronze Medal Match; Women's Singles Bronze Medal Match; Women's Singles Gold Medal Match; Women's Singles Victory Ceremony*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,8/1/20,12:00,20:00,Women's Doubles Bronze Medal Match; Mixed Doubles Bronze Medal Match*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Tennis,,Ariake Tennis Park,8/2/20,12:00,20:00,Men's Singles Gold Medal Match; Men's Singles Victory Ceremony; Women's Doubles Gold Medal Match; Women's Doubles Victory Ceremony; Mixed Doubles Gold Medal Match; Mixed Doubles Victory Ceremony*The above includes all possible events for this court. The final courtassignments and order of play are subject to change up until the day ofthe session.
+22,Triathlon,,Odaiba Marine Park,7/27/20,7:30,9:50,Men's Individual Final; Men's Victory Ceremony
+22,Triathlon,,Odaiba Marine Park,7/28/20,7:30,10:00,Women's Individual Final; Women's Victory Ceremony
+22,Triathlon,,Odaiba Marine Park,8/1/20,8:30,10:30,Mixed Relay Final; Mixed Relay Victory Ceremony
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/25/20,9:00,12:50,Men's or Women's Preliminaries (4 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/25/20,15:00,17:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/25/20,20:00,22:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/26/20,9:00,12:50,Men's or Women's Preliminaries (4 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/26/20,15:00,17:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/26/20,20:00,22:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/27/20,9:00,12:50,Men's or Women's Preliminaries (4 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/27/20,15:00,17:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/27/20,20:00,22:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/28/20,9:00,12:50,Men's or Women's Preliminaries (4 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/28/20,15:00,17:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/28/20,20:00,22:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/29/20,9:00,11:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/29/20,15:00,17:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/29/20,20:00,22:50,Men's or Women's Preliminaries (3 matches)
+22,Volleyball,Beach Volleyball,Shiokaze Park,7/30/20,9:00,11:50,Men's or Women's Preliminaries (3 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,7/30/20,15:00,17:50,Men's or Women's Preliminaries (3 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,7/30/20,20:00,22:50,Men's or Women's Preliminaries (3 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,7/31/20,9:00,11:50,Men's or Women's Preliminaries (3 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,7/31/20,15:00,17:50,Men's or Women's Preliminaries (3 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,7/31/20,20:00,22:50,Men's or Women's Preliminaries (3 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/1/20,9:00,11:50,Men's or Women's Preliminaries (3 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/1/20,15:00,17:50,Men's or Women's Preliminaries (2 matches); Men's or Women's Lucky Loser (1 match)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/1/20,20:00,22:50,Men's or Women's Lucky Loser (3 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/2/20,9:00,10:50,Men's or Women's Round of 16 (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/2/20,13:00,14:50,Men's or Women's Round of 16 (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/2/20,17:00,18:50,Men's or Women's Round of 16 (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/2/20,21:00,22:50,Men's or Women's Round of 16 (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/3/20,9:00,10:50,Men's or Women's Round of 16 (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/3/20,13:00,14:50,Men's or Women's Round of 16 (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/3/20,17:00,18:50,Men's or Women's Round of 16 (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/3/20,21:00,22:50,Men's or Women's Round of 16 (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/4/20,9:00,10:50,Women's Quarterfinals (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/4/20,21:00,22:50,Women's Quarterfinals (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/5/20,9:00,10:50,Men's Quarterfinals (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/5/20,21:00,22:50,Men's Quarterfinals (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/6/20,9:00,10:50,Men's or Women's Semifinals (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/6/20,21:00,22:50,Men's or Women's Semifinals (2 matches)
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/7/20,10:00,12:50,Women's Bronze Medal Match; Women's Gold Medal Match; Women's Victory Ceremony
+23,Volleyball,Beach Volleyball,Shiokaze Park,8/8/20,10:00,12:50,Men's Bronze Medal Match; Men's Gold Medal Match; Men's Victory Ceremony
+23,Volleyball,Volleyball,Ariake Arena,7/25/20,9:00,12:50,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/25/20,14:20,18:10,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/25/20,19:40,23:30,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/26/20,9:00,12:50,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/26/20,14:20,18:10,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/26/20,19:40,23:30,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/27/20,9:00,12:50,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/27/20,14:20,18:10,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/27/20,19:40,23:30,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/28/20,9:00,12:50,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/28/20,14:20,18:10,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/28/20,19:40,23:30,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/29/20,9:00,12:50,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/29/20,14:20,18:10,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/29/20,19:40,23:30,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/30/20,9:00,12:50,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/30/20,14:20,18:10,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/30/20,19:40,23:30,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/31/20,9:00,12:50,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/31/20,14:20,18:10,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,7/31/20,19:40,23:30,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,8/1/20,9:00,12:50,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,8/1/20,14:20,18:10,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,8/1/20,19:40,23:30,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,8/2/20,9:00,12:50,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,8/2/20,14:20,18:10,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,8/2/20,19:40,23:30,Men's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,8/3/20,9:00,12:50,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,8/3/20,14:20,18:10,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,8/3/20,19:40,23:30,Women's Preliminary Round (2 matches)
+23,Volleyball,Volleyball,Ariake Arena,8/4/20,9:00,11:00,Men's Quarterfinal
+23,Volleyball,Volleyball,Ariake Arena,8/4/20,13:00,15:00,Men's Quarterfinal
+23,Volleyball,Volleyball,Ariake Arena,8/4/20,17:00,19:00,Men's Quarterfinal
+23,Volleyball,Volleyball,Ariake Arena,8/4/20,21:30,23:30,Men's Quarterfinal
+23,Volleyball,Volleyball,Ariake Arena,8/5/20,9:00,11:00,Women's Quarterfinal
+23,Volleyball,Volleyball,Ariake Arena,8/5/20,13:00,15:00,Women's Quarterfinal
+23,Volleyball,Volleyball,Ariake Arena,8/5/20,17:00,19:00,Women's Quarterfinal
+23,Volleyball,Volleyball,Ariake Arena,8/5/20,21:30,23:30,Women's Quarterfinal
+23,Volleyball,Volleyball,Ariake Arena,8/6/20,13:00,15:00,Men's Semifinal
+23,Volleyball,Volleyball,Ariake Arena,8/6/20,21:00,23:00,Men's Semifinal
+23,Volleyball,Volleyball,Ariake Arena,8/7/20,13:00,15:00,Women's Semifinal
+23,Volleyball,Volleyball,Ariake Arena,8/7/20,21:00,23:00,Women's Semifinal
+23,Volleyball,Volleyball,Ariake Arena,8/8/20,13:30,15:30,Men's Bronze Medal Match
+23,Volleyball,Volleyball,Ariake Arena,8/8/20,21:15,23:30,Men's Gold Medal Match; Men's Victory Ceremony
+23,Volleyball,Volleyball,Ariake Arena,8/9/20,9:00,11:00,Women's Bronze Medal Match
+23,Volleyball,Volleyball,Ariake Arena,8/9/20,13:30,16:00,Women's Gold Medal Match; Women's Victory Ceremony
+23,Weightlifting,,Tokyo International Forum,7/25/20,9:20,11:30,Women's 49 kg Group B
+23,Weightlifting,,Tokyo International Forum,7/25/20,12:50,15:00,Women's 49 kg Group A; Women's 49 kg Victory Ceremony
+23,Weightlifting,,Tokyo International Forum,7/26/20,11:50,14:00,Men's 61 kg Group B and Men's 67 kg Group B
+23,Weightlifting,,Tokyo International Forum,7/26/20,15:50,18:00,Men's 61 kg Group A; Men's 61 kg Victory Ceremony
+23,Weightlifting,,Tokyo International Forum,7/26/20,19:50,22:00,Men's 67 kg Group A; Men's 67 kg Victory Ceremony
+23,Weightlifting,,Tokyo International Forum,7/27/20,13:50,16:00,Women's 55 kg Group B
+23,Weightlifting,,Tokyo International Forum,7/27/20,19:50,22:00,Women's 55 kg Group A; Women's 55 kg Victory Ceremony
+23,Weightlifting,,Tokyo International Forum,7/28/20,11:50,14:00,Women's 59 kg Group B and Women's 64 kg Group B
+23,Weightlifting,,Tokyo International Forum,7/28/20,15:50,18:00,Women's 59 kg Group A; Women's 59 kg Victory Ceremony
+24,Weightlifting,,Tokyo International Forum,7/28/20,19:50,22:00,Women's 64 kg Group A; Women's 64 kg Victory Ceremony
+24,Weightlifting,,Tokyo International Forum,7/29/20,13:50,16:00,Men's 73 kg Group B
+24,Weightlifting,,Tokyo International Forum,7/29/20,19:50,22:00,Men's 73 kg Group A; Men's 73 kg Victory Ceremony
+24,Weightlifting,,Tokyo International Forum,8/1/20,11:50,14:00,Men's 81 kg Group B and Men's 96 kg Group B
+24,Weightlifting,,Tokyo International Forum,8/1/20,15:50,18:00,Men's 81 kg Group A; Men's 81 kg Victory Ceremony
+24,Weightlifting,,Tokyo International Forum,8/1/20,19:50,22:00,Men's 96 kg Group A; Men's 96 kg Victory Ceremony
+24,Weightlifting,,Tokyo International Forum,8/2/20,13:50,16:00,Women's 76 kg Group B
+24,Weightlifting,,Tokyo International Forum,8/2/20,19:50,22:00,Women's 76 kg Group A; Women's 76 kg Victory Ceremony
+24,Weightlifting,,Tokyo International Forum,8/3/20,11:50,14:00,Women's 87 kg Group B and Women's +87 kg Group B
+24,Weightlifting,,Tokyo International Forum,8/3/20,15:50,18:00,Women's 87 kg Group A; Women's 87 kg Victory Ceremony
+24,Weightlifting,,Tokyo International Forum,8/3/20,19:50,22:00,Women's +87 kg Group A; Women's +87 kg Victory Ceremony
+24,Weightlifting,,Tokyo International Forum,8/4/20,13:50,16:00,Men's 109 kg Group B
+24,Weightlifting,,Tokyo International Forum,8/4/20,19:50,22:00,Men's 109 kg Group A; Men's 109 kg Victory Ceremony
+24,Weightlifting,,Tokyo International Forum,8/5/20,13:50,16:00,Men's +109 kg Group B
+24,Weightlifting,,Tokyo International Forum,8/5/20,19:50,22:00,Men's +109 kg Group A; Men's +109 kg Victory Ceremony
+24,Wrestling,,Makuhari Messe Hall,8/2/20,11:00,13:00,Men's Greco-Roman 60 kg 1/8 Finals; Women's Freestyle 76 kg 1/8 Finals; Men's Greco-Roman 130 kg 1/8 Finals; Men's Greco-Roman 60 kg 1/4 Finals; Women's Freestyle 76 kg 1/4 Finals; Men's Greco-Roman 130 kg 1/4 Finals
+24,Wrestling,,Makuhari Messe Hall,8/2/20,18:15,19:15,Men's Greco-Roman 60 kg Semifinals; Men's Greco-Roman 130 kg Semifinals; Women's Freestyle 76 kg Semifinals
+24,Wrestling,,Makuhari Messe Hall,8/3/20,11:00,13:30,Men's Greco-Roman 60 kg Repechage; Women's Freestyle 76 kg Repechage; Men's Greco-Roman 130 kg Repechage; Men's Greco-Roman 77 kg 1/8 Finals; Women's Freestyle 68 kg 1/8 Finals; Men's Greco-Roman 97 kg 1/8 Finals; Men's Greco-Roman 77 kg 1/4 Finals; Women's Freestyle 68 kg 1/4 Finals; Men's Greco-Roman 97 kg 1/4 Finals
+24,Wrestling,,Makuhari Messe Hall,8/3/20,18:15,22:00,Men's Greco-Roman 77 kg Semifinals; Men's Greco-Roman 97 kg Semifinals; Women's Freestyle 68 kg Semifinals; Men's Greco-Roman 60 kg Bronze Medal Matches; Men's Greco-Roman 60 kg Final; Men's Greco-Roman 130 kg Bronze Medal Matches; Men's Greco-Roman 130 kg Final; Men's Greco-Roman 60 kg Victory Ceremony; Women's Freestyle 76 kg Bronze Medal Matches; Women's Freestyle 76 kg Final; Men's Greco-Roman 130 kg Victory Ceremony; Women's Freestyle 76 kg Victory Ceremony
+24,Wrestling,,Makuhari Messe Hall,8/4/20,11:00,13:30,Men's Greco-Roman 77 kg Repechage; Women's Freestyle 68 kg Repechage; Men's Greco-Roman 97 kg Repechage; Men's Greco-Roman 67 kg 1/8 Finals; Women's Freestyle 62 kg 1/8 Finals; Men's Greco-Roman 87 kg 1/8 Finals; Men's Greco-Roman 67 kg 1/4 Finals; Women's Freestyle 62 kg 1/4 Finals; Men's Greco-Roman 87 kg 1/4 Finals
+24,Wrestling,,Makuhari Messe Hall,8/4/20,18:15,22:00,Men's Greco-Roman 67 kg Semifinals; Men's Greco-Roman 87 kg Semifinals; Women's Freestyle 62 kg Semifinals; Men's Greco-Roman 77 kg Bronze Medal Matches; Men's Greco-Roman 77 kg Final; Men's Greco-Roman 97 kg Bronze Medal Matches; Men's Greco-Roman 97 kg Final; Men's Greco-Roman 77 kg Victory Ceremony; Women's Freestyle 68 kg Bronze Medal Matches; Women's Freestyle 68 kg Final; Men's Greco-Roman 97 kg Victory Ceremony; Women's Freestyle 68 kg Victory Ceremony
+24,Wrestling,,Makuhari Messe Hall,8/5/20,11:00,13:30,Men's Greco-Roman 67 kg Repechage; Women's Freestyle 62 kg Repechage; Men's Greco-Roman 87 kg Repechage; Men's Freestyle 57 kg 1/8 Finals; Women's Freestyle 57 kg 1/8 Finals; Men's Freestyle 86 kg 1/8 Finals; Men's Freestyle 57 kg 1/4 Finals; Women's Freestyle 57 kg 1/4 Finals; Men's Freestyle 86 kg 1/4 Finals
+25,Wrestling,,Makuhari Messe Hall,8/5/20,18:15,22:00,Men's Freestyle 57 kg Semifinals; Men's Freestyle 86 kg Semifinals; Women's Freestyle 57 kg Semifinals; Men's Greco-Roman 67 kg Bronze Medal Matches; Men's Greco-Roman 67 kg Final; Men's Greco-Roman 87 kg Bronze Medal Matches; Men's Greco-Roman 87 kg Final; Men's Greco-Roman 67 kg Victory Ceremony; Women's Freestyle 62 kg Bronze Medal Matches; Women's Freestyle 62 kg Final; Men's Greco-Roman 87 kg Victory Ceremony; Women's Freestyle 62 kg Victory Ceremony
+25,Wrestling,,Makuhari Messe Hall,8/6/20,11:00,13:30,Men's Freestyle 57 kg Repechage; Women's Freestyle 57 kg Repechage; Men's Freestyle 86 kg Repechage; Men's Freestyle 74 kg 1/8 Finals; Women's Freestyle 53 kg 1/8 Finals; Men's Freestyle 125 kg 1/8 Finals; Men's Freestyle 74 kg 1/4 Finals; Women's Freestyle 53 kg 1/4 Finals; Men's Freestyle 125 kg 1/4 Finals
+25,Wrestling,,Makuhari Messe Hall,8/6/20,18:15,22:00,Men's Freestyle 74 kg Semifinals; Men's Freestyle 125 kg Semifinals; Women's Freestyle 53 kg Semifinals; Men's Freestyle 57 kg Bronze Medal Matches; Men's Freestyle 57 kg Final; Men's Freestyle 86 kg Bronze Medal Matches; Men's Freestyle 86 kg Final; Men's Freestyle 57 kg Victory Ceremony; Women's Freestyle 57 kg Bronze Medal Matches; Women's Freestyle 57 kg Final; Men's Freestyle 86 kg Victory Ceremony; Women's Freestyle 57 kg Victory Ceremony
+25,Wrestling,,Makuhari Messe Hall,8/7/20,11:00,13:30,Men's Freestyle 74 kg Repechage; Women's Freestyle 53 kg Repechage; Men's Freestyle 125 kg Repechage; Men's Freestyle 65 kg 1/8 Finals; Women's Freestyle 50 kg 1/8 Finals; Men's Freestyle 97 kg 1/8 Finals; Men's Freestyle 65 kg 1/4 Finals; Women's Freestyle 50 kg 1/4 Finals; Men's Freestyle 97 kg 1/4 Finals
+25,Wrestling,,Makuhari Messe Hall,8/7/20,18:15,22:00,Men's Freestyle 65 kg Semifinals; Men's Freestyle 97 kg Semifinals; Women's Freestyle 50 kg Semifinals; Men's Freestyle 74 kg Bronze Medal Matches; Men's Freestyle 74 kg Final; Men's Freestyle 125 kg Bronze Medal Matches; Men's Freestyle 125 kg Final; Men's Freestyle 74 kg Victory Ceremony; Women's Freestyle 53 kg Bronze Medal Matches; Women's Freestyle 53 kg Final; Men's Freestyle 125 kg Victory Ceremony; Women's Freestyle 53 kg Victory Ceremony
+25,Wrestling,,Makuhari Messe Hall,8/8/20,18:45,22:00,Men's Freestyle 65 kg Repechage; Women's Freestyle 50 kg Repechage; Men's Freestyle 97 kg Repechage; Men's Freestyle 65 kg Bronze Medal Matches; Men's Freestyle 65 kg Final; Men's Freestyle 97 kg Bronze Medal Matches; Men's Freestyle 97 kg Final; Men's Freestyle 65 kg Victory Ceremony; Women's Freestyle 50 kg Bronze Medal Matches; Women's Freestyle 50 kg Final; Men's Freestyle 97 kg Victory Ceremony; Women's Freestyle 50 kg Victory Ceremony

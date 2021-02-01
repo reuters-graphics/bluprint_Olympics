@@ -1,0 +1,59 @@
+<section class="graphic olympics mt-5">
+	<h3>Medal counts</h3>
+	<p><strong><%=sportData.countryChart[0].category%></strong> has won the most gold medals historically with  <%=sportData.countryChart[0].Gold%> wins, of <%=sportData.countryChart[0].Total%> total medals in <%=sport.toLowerCase()%>.</p>
+
+
+<div class="d-flex history-chart-wrapper align-items-start category">
+	<div class="country">COUNTRY<br><span class="smaller">G-S-B</span></div>
+	<div class="medal-wrapper">GOLD</div>
+	<div class="medal-wrapper">SILVER</div>
+	<div class="medal-wrapper">BRONZE</div>
+
+</div>
+
+
+
+<%sportData.countryChart.forEach(function(countryObj, i){%>
+<div class="d-flex history-chart-wrapper align-items-start <%if (i%2 == 0){%>stripe<%}%>">
+	<div class="country"><%=countryObj.category%><br><span class="smaller"><%=countryObj.Gold%>-<%=countryObj.Silver%>-<%=countryObj.Bronze%></span></div>
+	<div class="medal-wrapper d-flex flex-wrap">
+		<%countryObj.items.Gold.forEach(function(winner){%>
+			<div class="medal gold"
+				data-tippy-content="
+					<div class='tooltip-name'><%=winner.Athlete%></div>	
+					<div class='tooltip-year'><%=winner.City%> - <%=winner.Year%></div>	
+					<div class='tooltip-event'><%=winner.Event%></div>	
+				"	
+			></div>
+		<%})%>
+	</div>
+	<div class="medal-wrapper d-flex flex-wrap">
+		<%countryObj.items.Silver.forEach(function(winner){%>
+			<div class="medal silver"
+				data-tippy-content="
+					<div class='tooltip-name'><%=winner.Athlete%></div>	
+					<div class='tooltip-year'><%=winner.City%> - <%=winner.Year%></div>	
+					<div class='tooltip-event'><%=winner.Event%></div>	
+				"	
+			></div>
+		<%})%>
+	</div>
+	<div class="medal-wrapper d-flex flex-wrap">
+		<%countryObj.items.Bronze.forEach(function(winner){%>
+			<div class="medal bronze"
+				data-tippy-content="
+					<div class='tooltip-name'><%=winner.Athlete%></div>	
+					<div class='tooltip-year'><%=winner.City%> - <%=winner.Year%></div>	
+					<div class='tooltip-event'><%=winner.Event%></div>	
+				"	
+			></div>
+		<%})%>
+	</div>
+
+</div>
+	
+<%})%>
+
+
+
+</section>
