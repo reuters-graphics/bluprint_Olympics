@@ -16,6 +16,7 @@ $gold-medal:#c9b037;
 $silver-medal:#bcbec0;
 $bronze-medal:#cca264;
 $gray2:#bcbec0;
+$event-name-width:80px;
 
 
 body{
@@ -169,7 +170,7 @@ body{
 	text-transform: uppercase;
 }
 .event-name{
-	width:80px;
+	width:$event-name-width;
 	font-size: $font-size-xs;
 	text-align: right;
 	margin-right:10px;
