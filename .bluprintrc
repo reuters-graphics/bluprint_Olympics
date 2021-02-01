@@ -37,7 +37,7 @@
     "condition": ["bluprintPart", null]
   }, {
     "action": "regexreplace",
-    "files": ["article.ejs"],
+    "files": ["src/html/article.ejs"],
     "replace": [
       ["uniqueSportsName", "{{ uniqueSportsName }}"]
     ],
