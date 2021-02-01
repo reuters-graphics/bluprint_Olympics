@@ -3,16 +3,23 @@
 	<section class="graphic olympics mt-5">
 		<%if (index == 0){%>
 			<h3>Most gold medals</h3>			
-			<%if (sportData.goldMedals.length > 1){%>
-
-			<p><strong><%=name%></strong> and <strong><%=sportData.goldMedals[1].name.split(', ')[1]%> <%=sportData.goldMedals[1].name.split(',')[0]%></strong> are tied for the most gold medals with <%=goldMedal.gold%> each. </p>
-				
-			<%}else{%>
-				
-			<p><strong><%=name%></strong> has won the most gold medals in <%=sport%> with <%=goldMedal.gold%> gold and <%=goldMedal.total%> total. </p>
-
-
+			<%if (sportData.goldMedals.length == 1){%>				
+				<p><strong><%=name%></strong> has won the most gold medals in <%=sport%> with <%=goldMedal.gold%> gold and <%=goldMedal.total%> total. </p>
 			<%}%>
+
+
+			<%if (sportData.goldMedals.length == 2){%>				
+				<p><strong><%=name%></strong> and <strong><%=sportData.goldMedals[1].name.split(', ')[1]%> <%=sportData.goldMedals[1].name.split(',')[0]%></strong> are tied for the most gold medals with <%=goldMedal.gold%> each. </p>				
+			<%}%>
+
+			<%if (sportData.goldMedals.length == 3){%>				
+				<p><strong><%=name%></strong>, <strong><%=sportData.goldMedals[1].name.split(', ')[1]%> <%=sportData.goldMedals[1].name.split(',')[0]%></strong> and <strong><%=sportData.goldMedals[2].name.split(', ')[1]%> <%=sportData.goldMedals[2].name.split(',')[0]%></strong> are tied for the most gold medals with <%=goldMedal.gold%> each. </p>				
+			<%}%>
+
+			<%if (sportData.goldMedals.length > 3){%>				
+				<p><strong>Multiple olympians</strong> are tied for the most gold medals with <%=goldMedal.gold%> each. </p>				
+			<%}%>
+			
 		</section>
 		
 			<figure class='photo wide mt-n1'>
