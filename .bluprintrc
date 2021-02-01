@@ -37,7 +37,7 @@
     "condition": ["bluprintPart", null]
   }, {
     "action": "regexreplace",
-    "files": ["src/html/article.ejs", "locales/en/metadata.json" ],
+    "files": ["src/html/article.ejs", "locales/en/metadata.json", "src/js/schedule.js" ],
     "replace": [
       ["uniqueSportsName", "{{ uniqueSportsName }}"]
     ],
