@@ -48,7 +48,7 @@ section.hero-title{
 	margin-left:auto;
 	margin-right:auto;
 	
-	img{
+	.opener-img{
 		position:absolute;
 		opacity:0;
 		transition:opacity 1s;
@@ -61,8 +61,15 @@ section.hero-title{
 			width:120%;
 			left:-15%;
 		}
+		@include media-breakpoint-down(xs){
+			width:100%;
+			left:0%;
+		}
 		&.selected{
 			opacity:1;
+		}
+		img{
+			width:100%;
 		}
 	}
 	.title-wrapper{
@@ -81,8 +88,12 @@ section.hero-title{
 			padding:20px;
 			background-color: rgba(255, 255, 255, 0.8);
 		
-		
-			.section-title{
+			p{
+				@include media-breakpoint-down(xs){
+					font-size:0.9rem !important;
+				}
+			}
+			p.section-title{
 				font-size:$font-size-base !important;
 				letter-spacing: 0px !important;
 				line-height: 1.2 !important;
@@ -91,6 +102,11 @@ section.hero-title{
 			h2{
 				font-size:3rem !important;
 				line-height: 1.2 !important;
+				@include media-breakpoint-down(xs){
+					font-size:2.6rem !important;
+					line-height: 1.1;
+				}
+
 			}	
 		}				
 	}
@@ -298,6 +314,7 @@ section.hero-title{
 }
 .events{
 	width:50%;
+	margin-top:8px;
 	.event{
 		font-size:$font-size-xs;
 	}
