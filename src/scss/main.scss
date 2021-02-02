@@ -43,8 +43,11 @@ body{
 }
 
 //TITLE STUFF
-.hero-title{	
-
+section.hero-title{	
+	max-width: 1200px;
+	margin-left:auto;
+	margin-right:auto;
+	
 	img{
 		position:absolute;
 		opacity:0;
@@ -96,12 +99,17 @@ body{
 .opener{
 	min-height:calc(100vh - 50px);
 	width:100%;
+	max-width: 1200px;
 	position:relative;
+	margin-left:auto;
+	margin-right:auto;
 	left:0px;
 	z-index: -1;	
 	.fixed &{
 		position:fixed;
 		top:50px;
+		left:50%;
+		transform: translate(-50%, 0);
 		html.embedded &{
 			top:0px;
 		}									

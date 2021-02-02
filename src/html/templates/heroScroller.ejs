@@ -1,7 +1,15 @@
 <section class="hero-title scroll-container fixed">
 	<div class="opener">
-		<img class="opener-img selected first" src="img/top.png">
-		<img class="opener-img second" src="img/top2.png">
+		<div class="opener-img selected first">
+			<img class="d-none d-sm-block" src="img/top.png">
+			<img class="d-block d-sm-none" src="img/top-xs.png">
+
+		</div>
+		<div class="opener-img  second">
+			<img class="d-none d-sm-block" src="img/top2.png">
+			<img class="d-block d-sm-none" src="img/top2-xs.png">
+		</div>
+
 	</div>
 
 	<div class="title-wrapper">
@@ -20,7 +28,6 @@
 	<div class="scroll-item" data-id="1">
 		<section class="blurb graphic">
 			<%- localeMarkdown('article/text.md').secondBlurb %>
-			<%- include('../ai2html/ai_intro.ejs'); %>
 
 		</section>
 	</div>
