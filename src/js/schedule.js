@@ -4,6 +4,9 @@ import skedData from './fullsked.csv';
 
 //Matt, change this.
 let sport = "uniqueSportsName"
+if (sport == "Baseball" || sport == "Softball"){
+	sport = "Baseball/Softball"
+}
 
 const d3formatter = require('d3-format');
 const d3 = Object.assign(d3formatter, require('d3-time-format'));
