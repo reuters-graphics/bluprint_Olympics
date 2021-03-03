@@ -20,7 +20,7 @@
 		<%countryObj.items.Gold.forEach(function(winner){%>
 			<div class="medal gold"
 				data-tippy-content="
-					<div class='tooltip-name'><%=winner.Athlete%></div>	
+					<div class='tooltip-name'><%=winner.Athlete.replace(/\"/g, '&quot;')%></div>	
 					<div class='tooltip-year'><%=winner.City%> - <%=winner.Year%></div>	
 					<div class='tooltip-event'><%=winner.Event%></div>	
 				"	
@@ -31,7 +31,7 @@
 		<%countryObj.items.Silver.forEach(function(winner){%>
 			<div class="medal silver"
 				data-tippy-content="
-					<div class='tooltip-name'><%=winner.Athlete%></div>	
+					<div class='tooltip-name'><%=winner.Athlete.replace(/\"/g, '&quot;')%></div>	
 					<div class='tooltip-year'><%=winner.City%> - <%=winner.Year%></div>	
 					<div class='tooltip-event'><%=winner.Event%></div>	
 				"	
@@ -42,7 +42,7 @@
 		<%countryObj.items.Bronze.forEach(function(winner){%>
 			<div class="medal bronze"
 				data-tippy-content="
-					<div class='tooltip-name'><%=winner.Athlete%></div>	
+					<div class='tooltip-name'><%=winner.Athlete.replace(/\"/g, '&quot;')%></div>	
 					<div class='tooltip-year'><%=winner.City%> - <%=winner.Year%></div>	
 					<div class='tooltip-event'><%=winner.Event%></div>	
 				"	
