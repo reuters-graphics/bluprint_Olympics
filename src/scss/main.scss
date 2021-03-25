@@ -462,3 +462,57 @@ section.hero-title{
 .tippy-box{
 	font-family: $font-family-sans-serif;
 }
+
+//BOTTOM THING
+
+#coverflow {
+  height: 220px;
+  img {
+    border: 2px solid $oly-gold;
+    cursor: pointer;
+  }
+}
+#sport-name {
+  width: 100%;
+  text-align: center;
+  font-family: $font-family-sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: $oly-red;
+}
+.coverflow-header {
+  width: 100%;
+  font-size: 1.2rem !important;
+  color: $oly-gold;
+  text-align: center;
+  text-transform: uppercase;
+}
+#sport-list {
+  font-family: $font-family-sans-serif;
+  max-width: 1200px;
+  margin: 10px auto 30px auto;
+  column-count: 6;
+  @include media-breakpoint-down(sm) {
+    column-count: 3;
+  }
+  @include media-breakpoint-down(xs) {
+    column-count: 2;
+  }
+
+  .flip-sport {
+    cursor: pointer;
+    font-size: 0.9rem;
+    padding: 2px 10px 2px 10px;
+    &:hover, &.selected {
+      color: $oly-red;
+      font-weight: 700;
+    }
+    &.stripe {
+      background-color: $oly-background-highlight;
+    }
+  }
+}
+.coverflow-header {
+  border-top: 1px solid $oly-gold;
+  padding-top: 20px;
+}

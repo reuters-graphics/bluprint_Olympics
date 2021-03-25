@@ -16,8 +16,97 @@ import tippy from 'tippy.js';
 import 'tippy.js/dist/tippy.css';
 import 'waypoints/lib/noframework.waypoints.js';
 
+import coverflow from 'coverflow';
+
+
+let formatter = require('d3-format');
+let d3 = Object.assign(
+  formatter,
+  require('d3-fetch'),
+  require('d3-time-format')
+);
 
 if (!isEmbedded) {
+	  d3.json('https://d3sl9l9bcxfb5q.cloudfront.net/json/mw-coverflow').then(
+    (data) => {
+      data.forEach(function (d, i) {
+        document.getElementById(
+          'coverflow'
+        ).innerHTML += `<img id="${i}" src="https://graphics.thomsonreuters.com/data/olympics2021/images/${d.id}.png" />`;
+        let modClass = i % 2 == 0 ? 'stripe' : '';
+        document.getElementById(
+          'sport-list'
+        ).innerHTML += `<div data-id="${i}" class="flip-sport ${modClass}">${d.sport} </div>`;
+      });
+
+      document.getElementById('sport-name').innerHTML = data[0].sport;
+
+      setTimeout(function () {
+
+		function updateSelectedCover(index){
+            document.getElementById('sport-name').innerHTML = data[index].sport;
+            var elems = document.querySelectorAll(".flip-sport.selected");
+
+			[].forEach.call(elems, function(el) {
+			    el.classList.remove("selected");
+			});
+			var selectElems = document.querySelectorAll(`[data-id="${index}"]`);
+						
+			[].forEach.call(selectElems, function(el) {
+				    el.classList.add("selected")                        				    
+			});			
+		}
+		
+		var sportImgs = document.querySelectorAll('#coverflow img');
+		[].forEach.call(sportImgs, function(el) {
+			  el.addEventListener('click', event => {
+			    let index = event.target.getAttribute('id');
+			    updateSelectedCover(index)
+			  })
+		});
+			
+        coverflow.initialize('coverflow', {
+          maxHeight: 200,
+          timeConstant:200,
+          onActiveClick: function (index) {
+            window.open(data[index].url, '_blank');
+          },
+          onChange: function (index) {
+			updateSelectedCover(index)
+          },
+        });
+        
+        coverflow.setActive(0);
+
+        let sportList = document.getElementById('sport-list');
+        sportList.addEventListener('mouseover', function (event) {
+          let index = event.target.getAttribute('data-id');
+		  	if (coverflow.getActiveIndex() == index){
+			  	return
+		  	}
+            var elems = document.querySelectorAll(".flip-sport.selected");
+
+			[].forEach.call(elems, function(el) {
+			    el.classList.remove("selected");
+			});
+          coverflow.flowTo(index);
+          setTimeout(function(){
+	          coverflow.setActive(index)
+          }, 200)
+
+          document.getElementById('sport-name').innerHTML = data[index].sport;
+        });
+        
+        sportList.addEventListener('click', function (event) {
+          let index = event.target.getAttribute('data-id');
+          window.open(data[index].url, '_blank');
+        });
+      }, 1000);
+    }
+  );
+	
+	
+	
 	let scrollItems = document.querySelectorAll('.scroll-item')
 	scrollItems.forEach((scrollItem)=>{
 		new Waypoint({
