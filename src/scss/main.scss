@@ -516,3 +516,39 @@ section.hero-title{
   border-top: 1px solid $oly-gold;
   padding-top: 20px;
 }
+
+
+#button-holder{
+	max-width:1200px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:30px;
+}
+#sport-list{
+	margin-bottom:15px;
+}
+.page-btn{
+	width:calc(100% / 3);
+	font-family: $font-family-sans-serif;
+	line-height: 1.1;
+	display: block;
+	color:$oly-gold;
+	font-weight: 600;
+	font-size:0.9rem;
+	&:hover{
+		color:$oly-red;
+	}
+	span{
+		font-weight: 100;
+	}
+	&.previous{
+
+	}
+	&.home{
+		text-align: center;
+	}
+	&.next{
+		text-align: right;
+		
+	}
+}
