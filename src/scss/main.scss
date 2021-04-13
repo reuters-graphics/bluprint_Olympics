@@ -220,42 +220,71 @@ section.hero-title{
 	}
 }
 
-.olyBox{
-	width:100%;
-	border-radius: 100%;
-	height:12px;
-	margin-top:5px;
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 
-	@include media-breakpoint-down(sm){
-		height:10px;
-	}
-	&.men{
-		background:$oly-blue !important;
-	}
-	&.women{
-		background:#c65976 !important;
-	}
+.olyBox {
+  width: 100%;
+  height: 12px;
+  margin-top: 5px;
+  border-radius: 100%;
+  position:relative;
+  .oly-circle{
+	  position:absolute;
+	  width:12px;
+	  height:12px;
+	  border-radius: 100%;
 
-	&.gold{
-		background:$gold-medal !important;
+  }
+  @include media-breakpoint-down(sm) {
+    height: 10px;
+	  .oly-circle{
+		  width:10px;
+		  height:10px;
+	  }
+
+  }
+  &.men {
+  .oly-circle{
+	    background: $oly-blue !important;
 	}
-	&.silver{
-		background:$silver-medal !important;
-	}	
-	&.bronze{
-		background:$bronze-medal !important;
-	}	
-	
-	&.men.women{
-		background:linear-gradient(45deg, $oly-blue 50%, #c65976 50%) !important;
+  }
+  &.women {
+	.oly-circle{
+	    background: #c65976 !important;
 	}
-	&.year-holder{
-		background:none !important;
+  }
+
+  &.gold {
+	.oly-circle{
+	    background: $gold-medal !important;
 	}
-	.year{
-		font-size:$font-size-xs;
-		text-align: center;
+  }
+  &.silver {
+	.oly-circle{
+	    background: $silver-medal !important;
 	}
+  }
+  &.bronze {
+	.oly-circle{
+	    background: $bronze-medal !important;
+	}
+  }
+
+  &.men.women {
+	.oly-circle{
+	    background: linear-gradient(45deg, $oly-blue 50%, #c65976 50%) !important;
+	}
+  }
+  &.year-holder {
+    background: none !important;
+  }
+  .year {
+    font-size: $font-size-xs;
+    text-align: center;
+  }
 }
 
 
