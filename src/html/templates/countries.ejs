@@ -1,6 +1,6 @@
 <section class="graphic olympics mt-5">
 	<h3>Medal counts</h3>
-	<p><strong><%=sportData.countryChart[0].category%></strong> has won the most gold medals historically with  <%=sportData.countryChart[0].Gold%> wins, of <%=sportData.countryChart[0].Total%> total medals in <%=sport.toLowerCase()%>.</p>
+	<p><strong>Olympians from <%=sportData.countryChart[0].category%></strong> have won the most gold medals historically with  <%=sportData.countryChart[0].Gold%> wins, of <%=sportData.countryChart[0].Total%> total medals in <%=sport.toLowerCase()%>.</p>
 
 
 <div class="d-flex history-chart-wrapper align-items-start category">
@@ -10,7 +10,6 @@
 	<div class="medal-wrapper">BRONZE</div>
 
 </div>
-
 
 
 <%sportData.countryChart.forEach(function(countryObj, i){%>
