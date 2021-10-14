@@ -1,11 +1,11 @@
 {
   "slugs": {
-    "root": "OLYMPICS-2020",
+    "root": "OLYMPICS-2022",
     "wild": "EXPLAINER"
   },
-  "seoTitle": "Tokyo Olympics - uniqueSportsName",
+  "seoTitle": "Beijing Olympics - uniqueSportsName",
   "seoDescription": "An interactive look at the history, mechanics, equipment and schedules for the uniqueSportsName events at the Summer Olympics",
-  "shareTitle": "Tokyo Olympics - uniqueSportsName",
+  "shareTitle": "Beijing Olympics - uniqueSportsName",
   "shareDescription": "An interactive look at the history, mechanics, equipment and schedules for the uniqueSportsName events at the Summer Olympics",
   "image": {
     "path": "img/share-card.png",

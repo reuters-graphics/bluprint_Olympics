@@ -27,7 +27,7 @@ let d3 = Object.assign(
 );
 
 if (!isEmbedded) {
-  d3.json('https://d3sl9l9bcxfb5q.cloudfront.net/json/mw-coverflow').then(
+  d3.json('https://d3sl9l9bcxfb5q.cloudfront.net/json/mw-coverflow-winter').then(
     (data) => {
 		let h2 = document.querySelectorAll('h2');
 		let sport
